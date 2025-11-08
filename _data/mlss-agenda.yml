@@ -1,0 +1,178 @@
+- title: Monday
+  subtitle: June 30th
+  events:
+  - title: No school yet!
+- title: Tuesday
+  subtitle: July 1st
+  events:
+    - title: Registration
+      time: <br><br><br>10:00 - 11:00
+      height: 6
+    - title: Opening remarks
+      time: 11:00 - 11:30
+      height: 1
+    - title: Kaja Milanowska-Zabel
+      subtitle: "Decoding the Future: AI's Role in Revolutionizing Drug Discovery"
+      time: 11:30 - 13:00
+      height: 3
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Bartosz Grzybowski
+      subtitle: "Chemical synthesis and discovery in the age of computers and robots"
+      time: 14:00 - 15:30
+      height: 3
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 15:30 - 16:00
+      height: 1
+    - title: Bartosz Grzybowski
+      subtitle: "TBA"
+      time: 16:00 - 17:30
+      height: 2
+    - title: <i class="fa-solid fa-handshake"></i> Welcome party
+      time: 18:00+
+      subtitle: "Venue patio"
+      height: 1
+
+- title: Wednesday
+  subtitle: July 2nd
+  events:
+    - title: Registration
+      time: <br><br><br>10:00 - 11:00
+      height: 6
+    # - title: Registration
+    #   time: 9:00 - 9:30
+    #   height: 1
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Andreas Bender
+      subtitle: AI in Drug Discovery - From 'SOTA' to Real-World Impact
+      time: 11:30 - 13:00
+      height: 3
+    # - title: Marwin Segler
+    #   subtitle: TBA
+    #   time: 11:30 - 13:00
+    #   height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:45
+      height: 2
+    - title: Miguel Angel Bautista
+      subtitle: "Generative Modeling: from Pixels to Proteins<br><i>(remote)</i>"
+      time: 14:45 - 16:15
+      height: 4
+    - title: Poster session
+      subtitle: <a href='https://maps.app.goo.gl/3c35WKJcDVcLA8du5'>Department of Chemistry</a>
+      time: 16:30-18:30
+      height: 1
+
+- title: Thursday
+  subtitle: July 3rd
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Jakub Tomczak
+      time: 9:30 - 11:00
+      subtitle: Generative AI in Life and Molecular Sciences
+      height: 4
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Jakub Tomczak
+      subtitle: Generative AI in Life and Molecular Sciences
+      time: 11:30 - 13:00
+      height: 3
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Hannes Stark
+      subtitle: "Understanding biomolecular diffusion through examples:<br>1. prediction (DiffDock and Boltz),<br>2. dynamics (MDGen),<br>3. design (new! BoltzGen)"
+      time: 14:00 - 15:30
+      height: 5
+    - title: ""
+
+
+- title: Friday
+  subtitle: July 4th
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Tomasz Kościółek
+      subtitle: AI in solving the protein structure<br>and function prediction problems
+      time: 9:30 - 11:00
+      height: 4
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Lixin Sun
+      subtitle: "Nuts and Bolts of<br>Machine Learning Force Fields"
+      time: 11:30 - 13:00
+      height: 3
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Bożena Augustyn
+      subtitle: "Smarter, faster, safer: the role of AI in clinical trials"
+      time: 14:00 - 15:30
+      height: 2
+    - title: ""
+
+- title: Saturday
+  subtitle: July 5th
+  events:
+    - title: Registration
+      time: 9:00 - 9:30
+      height: 1
+    - title: Stanisław Jastrzębski
+      subtitle: How the quiet high-throughput revolution in synthetic chemistry will change drug discovery forever
+      time: 9:30-11:00
+      height: 4
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Marwin Segler
+      subtitle: "Machine Learning around the Design-Make-Test cycle"
+      time: 11:30 - 13:00
+      height: 3
+    # - title: Bożena Augustyn
+    #   subtitle: TBA
+    #   time: 11:30 - 13:00
+    #   height: 2
+    - title: <i class="fa-solid fa-utensils"></i> Lunch break
+      time: 13:00 - 14:00
+      height: 1
+    - title: Emmanuel Bengio
+      time: 14:00-15:30
+      subtitle: Using GFlowNets to solve<br>drug discovery problems<br><i>(remote)</i>
+      height: 7
+    - title: <i class="fa-solid fa-wine-glass"></i> Goodbye party
+      time: 20:00+
+      subtitle: <a href="https://maps.app.goo.gl/gdK3MqficiqLffRx6">Bracka 4 Club</a>
+      height: 2.5
+
+- title: Sunday
+  subtitle: July 6th
+  events:
+    - title: Registration
+      time: 9:00-9:30
+      height: 1
+    - title: Christina Leslie
+      time: 9:30 - 11:00
+      subtitle: "Machine learning models for single-cell and regulatory genomics"
+      height: 4
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 11:00 - 11:30
+      height: 1
+    - title: Patrick Schwab
+      subtitle: "Working smarter, not harder in AI-driven drug discovery"
+      time: 11:30 - 13:00
+      height: 3
+    - title: <i class="fa-solid fa-hand-holding-heart"></i> Closing remarks
+      time: 13:00 - 13:15
+      height: 1
+    - title: <i class="fa-solid fa-utensils"></i> Lunch
+      time: 13:15 - 14:00
+      height: 1
+    - title: ""

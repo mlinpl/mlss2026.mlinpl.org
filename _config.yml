@@ -1,0 +1,159 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+# Head settings
+title: MLSS^RS 2026
+email: mlss@mlinpl.org
+event-date: "2026-06-29T00:00:00"
+tagline: Machine Learning Summer School on Reliability and Safety
+description: >-
+  MLSS^RS 2026 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning and its Reliability and Safety,
+  primarily intended for research-oriented graduate students.
+  The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects.
+  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland. 
+twitter-username: "@MLinPL"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mlss2026.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: ML in PL Association
+  url: https://mlinpl.org
+
+
+# Header settings
+inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
+header:
+  heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
+  subheading: Machine Learning Summer School</br>on <span class="emph">R</span>eliability and <span class="emph">S</span>afety
+  date-location: 29 June - 3 July / Kraków, Poland
+  # Countdown settings
+  countdown-date: "2026-06-29T09:00:00Z"
+  #countdown-text: '<a href="registration">Registration</a> closes in:'
+  # countdown-overwrite: 'Thank you for participating!'
+
+# Navigation settings
+navigation:
+  - name: "/ About"
+    url: "#about"
+    subsites:
+      - name: "/ Previous editions"
+        subsites:
+          - name: "/ 2025"
+            url: "https://mlss2025.mlinpl.org"
+          - name: "/ 2023"
+            url: "https://mlss2023.mlinpl.org"
+          - name: "/ 2022"
+            url: "https://mlss2022.mlinpl.org"
+
+  # - name: "/ Speakers"
+  #   url: "#speakers"
+  
+  # - name: "/ Agenda"
+  #   url: "#agenda"
+
+  # - name: "/ Timeline"
+  #   url: "#timeline"
+
+  # - name: "/ Registration"
+  #   url: "registration"
+
+  - name: "/ Venue"
+    url: "#venue"
+
+  - name: "/ Organizers"
+    url: "#organizers"
+
+
+# Defaults for different pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      # image: /images/mlss^d-2025-event-banner.jpg
+
+
+# Colors and styles settings
+photo-border-width: 1px
+color:
+  main: "#6DB6C6"
+  second: "#6DB6C6"
+  default-text: "#010101"
+  main-gradient: "#FF0000, #FF00FF"
+  background: "#FFFFFF"
+  image-filter: hue-rotate(190deg)
+  person-photo-filter: "grayscale(75%)"
+  person-photo-gradient: "linear-gradient(140deg, rgba(231,50,42,0) 25%,rgba(231,50,42,0.5) 100%)"
+
+
+# Footer settings
+footer: ML in PL Association
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    icon: linkedin
+    url: https://www.linkedin.com/company/mlinpl
+  - title: facebook
+    icon: facebook
+    url: https://www.facebook.com/MLinPL
+  - title: twitter
+    icon: x-twitter
+    url: https://twitter.com/mlinpl
+  - title: youtube
+    icon: youtube
+    url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - pages/drafts
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+include:
+  - pages/
