@@ -42,11 +42,13 @@ inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="supers
 header:
   heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
   subheading: Machine Learning Summer School</br>on <span class="emph">R</span>eliability and <span class="emph">S</span>afety
-  date-location: 29 June - 3 July / Kraków, Poland
+  # date-location: 29 June - 3 July / Kraków, Poland
+  date-location: Late June - Early July / Kraków, Poland
   # Countdown settings
-  countdown-date: "2026-06-29T09:00:00Z"
+  # countdown-date: "2026-06-29T09:00:00Z"
   #countdown-text: '<a href="registration">Registration</a> closes in:'
   # countdown-overwrite: 'Thank you for participating!'
+  countdown-overwrite: ''
 
 # Navigation settings
 navigation:
@@ -74,8 +76,8 @@ navigation:
   # - name: "/ Registration"
   #   url: "registration"
 
-  - name: "/ Venue"
-    url: "#venue"
+  # - name: "/ Venue"
+  #   url: "#venue"
 
   - name: "/ Organizers"
     url: "#organizers"
@@ -85,8 +87,7 @@ navigation:
 defaults:
   - scope:
       path: ""
-    values:
-      # image: /images/mlss^d-2025-event-banner.jpg
+    values: {}
 
 
 # Colors and styles settings
