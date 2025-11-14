@@ -9,3 +9,11 @@
 - name: ML in PL Association
   logo: ./images/institutions-logos/logo-mlinpl.svg
   url: https://mlinpl.org/
+
+- name: IDEAS Research Institute
+  logo: ./images/institutions-logos/IDEAS-RI.png
+  url:
+
+- name: ellis Unit Warsaw
+  logo: ./images/institutions-logos/ellis-unit-warsaw.png
+  url:
