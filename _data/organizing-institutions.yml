@@ -1,19 +1,30 @@
-- name: Jagiellonian University in Krakow
+- name: Jagiellonian University in&nbsp;Krakow
   logo: ./images/institutions-logos/logo-uj.svg
   url: https://en.uj.edu.pl/en
+  description: |
+    Jagiellonian University is one of Europe's oldest research universities and a&nbsp;leading academic center in&nbsp;AI.
 
 - name: Group of Machine Learning Research
   logo: ./images/institutions-logos/logo-gmum.png
   url: https://gmum.net/
+  description: |
+    GMUM is a ML research group at JU, active in AI safety, computer vision, and&nbsp;modern ML methods.
 
 - name: ML in PL Association
   logo: ./images/institutions-logos/logo-mlinpl.svg
   url: https://mlinpl.org/
+  description: |
+    ML in PL Association organizes major ML events in Poland and connects researchers with industry.
 
 - name: IDEAS Research Institute
   logo: ./images/institutions-logos/IDEAS-RI.png
-  url: https://www.linkedin.com/company/ideas-research-institute
+  url: https://www.ideas.edu.pl/en/
+  description: |
+    IDEAS RI is Poland’s largest applied-AI research center, supporting innovation and bridging academic research with industry.
 
 - name: ellis Unit Warsaw
-  logo: ./images/institutions-logos/ellis-unit-warsaw.png
+  logo: ./images/institutions-logos/ellis-unit-warsaw-horizontal.png
   url: https://ellis.eu/research/sites/unit-warsaw
+  description: |
+    ELLIS Unit Warsaw is part of the European ELLIS network, advancing research in&nbsp;trustworthy, robust, and&nbsp;efficient Al.
+  maxWidth: 500px
