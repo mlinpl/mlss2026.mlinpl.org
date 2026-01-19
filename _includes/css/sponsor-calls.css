@@ -1,0 +1,42 @@
+.sponsor-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sponsor-benefit-card {
+    height: 100%;
+    padding: 40px 20px;
+    border-radius: 8px;
+    /* background-color: #f8f9fa; */
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.sponsor-benefit-card:hover {
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    transform: translateY(-10px);
+    -webkit-box-shadow: 0 10px 30px rgba(109, 170, 198, 0.2);
+    box-shadow: 0 10px 30px rgba(109, 170, 198, 0.2);
+    background-color: {{ site.color.background }};
+}
+
+.sponsor-icon {
+    color: {{ site.color.default-text }};
+    -webkit-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+    transition: color .3s ease-in-out;
+}
+
+.sponsor-benefit-card:hover .sponsor-icon {
+    color: {{ site.color.main }};
+}
+
+.sponsor-benefit-card h4 {
+    margin: 20px 0 15px;
+    font-weight: 600;
+}

@@ -93,8 +93,8 @@ defaults:
 # Colors and styles settings
 photo-border-width: 1px
 color:
-  main: "#6DB6C6"
-  second: "#6DB6C6"
+  main: "#2e8bc0"
+  second: "#b1d4e0"
   default-text: "#010101"
   main-gradient: "#FF0000, #FF00FF"
   background: "#FFFFFF"
