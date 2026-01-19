@@ -5,7 +5,7 @@
     Jagiellonian University is one of Europe's oldest research universities and a&nbsp;leading academic center in&nbsp;AI.
 
 - name: Group of Machine Learning Research
-  logo: ./images/optimized/institutions-logos-600x600/logo-gmum.png
+  logo: ./images/optimized/institutions-logos-600x600/logo-gmum.webp
   url: https://gmum.net/
   description: |
     GMUM is a ML research group at JU, active in AI safety, computer vision, and&nbsp;modern ML methods.
@@ -17,7 +17,7 @@
     ML in PL Association organizes major ML events in Poland and connects researchers with industry.
 
 - name: IDEAS Research Institute
-  logo: ./images/optimized/institutions-logos-600x600/IDEAS-RI.png
+  logo: ./images/optimized/institutions-logos-600x600/IDEAS-RI.webp
   url: https://www.ideas.edu.pl/en/
   description: |
     IDEAS RI is Poland’s largest applied-AI research center, supporting innovation and bridging academic research with industry.
