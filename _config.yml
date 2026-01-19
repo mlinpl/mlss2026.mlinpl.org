@@ -66,8 +66,8 @@ navigation:
           - name: "/ 2022"
             url: "https://mlss2022.mlinpl.org"
 
-  # - name: "/ Speakers"
-  #   url: "#speakers"
+  - name: "/ Speakers"
+    url: "#speakers"
   
   # - name: "/ Agenda"
   #   url: "#agenda"
