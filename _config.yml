@@ -20,7 +20,7 @@
 
 
 # Head settings
-title: MLSS^RS 2026
+title: MLSS^R&S 2026
 email: mlss@mlinpl.org
 event-date: "2026-06-29T00:00:00"
 tagline: Machine Learning Summer School on Reliability and Safety
@@ -50,6 +50,7 @@ header:
   #countdown-text: '<a href="registration">Registration</a> closes in:'
   # countdown-overwrite: 'Thank you for participating!'
   # countdown-overwrite: ''
+  arrow-url: "#about"
 
 # Navigation settings
 navigation:
@@ -71,8 +72,8 @@ navigation:
   # - name: "/ Agenda"
   #   url: "#agenda"
 
-  # - name: "/ Timeline"
-  #   url: "#timeline"
+  - name: "/ Timeline"
+    url: "#timeline"
 
   # - name: "/ Registration"
   #   url: "registration"
@@ -99,9 +100,9 @@ color:
   default-text: "#010101"
   main-gradient: "#FF0000, #FF00FF"
   background: "#FFFFFF"
-  image-filter: hue-rotate(190deg)
+  image-filter: hue-rotate(200deg)
   person-photo-filter: "grayscale(75%)"
-  person-photo-gradient: "linear-gradient(140deg, rgba(231,50,42,0) 25%,rgba(231,50,42,0.5) 100%)"
+  person-photo-gradient: "linear-gradient(140deg, rgba(46,139,192,0) 25%,rgba(46,139,192,0.5) 100%)"
 
 
 # Footer settings
