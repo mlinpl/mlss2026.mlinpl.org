@@ -40,15 +40,16 @@ author:
 # Header settings
 inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
 header:
-  heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
-  subheading: Machine Learning Summer School</br>on <span class="emph">R</span>eliability and <span class="emph">S</span>afety
-  # date-location: 29 June - 3 July / Kraków, Poland
-  date-location: Late June - Early July / Kraków, Poland
+  # heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
+  heading: '<img src="images/mlss-2026.png" alt="MLSS^R&S 2026" style="max-height: 2.1em; max-width: 90%;">'
+  # subheading: Machine Learning Summer School</br>on <span class="emph">R</span>eliability and <span class="emph">S</span>afety
+  date-location: 29 June - 3 July / Kraków, Poland
+  # date-location: Late June - Early July / Kraków, Poland
   # Countdown settings
-  # countdown-date: "2026-06-29T09:00:00Z"
+  countdown-date: "2026-06-29T09:00:00Z"
   #countdown-text: '<a href="registration">Registration</a> closes in:'
   # countdown-overwrite: 'Thank you for participating!'
-  countdown-overwrite: ''
+  # countdown-overwrite: ''
 
 # Navigation settings
 navigation:
