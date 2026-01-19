@@ -7,7 +7,7 @@
     height: 100%;
     padding: 40px 20px;
     border-radius: 8px;
-    background-color: #f8f9fa;
+    /* background-color: #f8f9fa; */
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
