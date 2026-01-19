@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="col-xs-12 d-flex">
+        {% for institution in site.data.organizing-institutions %}
+        <div class="institution-card col-md-6">
+            <a href="{{ institution.url }}" target="_blank" class="institution-logo-link">
+                <img style="object-fit: contain; width: 100%; height: auto; max-width: {{ institution.maxWidth | default: '300px' }};" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}" class="institution-logo">
+            </a>
+            <h4 class="institution-name text-center">{{ institution.name }}</h4>
+            <p class="institution-description text-center" style="margin: 0;">{{ institution.description }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<style>{% include css/organizing-institutions.css %}</style>
