@@ -6,7 +6,7 @@ permalink: /privacy-policy
 
 ## § 1. GENERAL PROVISIONS
 
-1. This Privacy Policy sets forth the rules for the processing and protection of personal data of <https://mlss.mlinpl.org> Website Users as relates to data provided by Users for Registration, participation in the Summer Schools, and payment by Participants.
+1. This Privacy Policy sets forth the rules for the processing and protection of personal data of <https://mlss2026.mlinpl.org> Website Users as relates to data provided by Users for Registration, participation in the Summer Schools, and payment by Participants.
 2. Controller shall process the personal data in accordance with regulations of REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (further as: “**GDPR**”) and other applicable laws.
 3. Controller declares to apply technical and organizational means ensuring the protection of processed personal data which are adequate in relation to threats and categories of personal data encompassed by said protection, in particular by securing data from access and theft by unauthorised persons, from processing in a manner inconsistent with the provisions of law, and from alteration, loss, damage and destruction.
 
