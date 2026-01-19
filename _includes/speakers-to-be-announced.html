@@ -10,5 +10,24 @@
                 The list of speakers will be announced gradually. We are currently confirming the first invited lecturers — details coming soon.
             </p>
         </div>
+
+        <div class="slider-tabs">
+            {% for i in (1..10) %}
+            <div class="slider-item page-scroll person item-col-4" data-index="{{ forloop.index0 }}" href="#{{ include.section-id }}">
+                <div class="person-photo-wrapper speaker-photo" style="width: 75px; height: 75px; display: flex; align-items: center; justify-content: center; margin: 0">
+                    <div>
+                        <i class="fa-solid fa-circle-question" style="font-size: 75px; color: {{ site.color.second }};"></i>
+                    </div>
+                </div>
+                <div class="center-verticaly" style="max-height: 92px;">
+                    <div>
+                        <span class="speaker-name">
+                            TBA
+                        </span></br>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
     </div>
 </section>
