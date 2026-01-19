@@ -1,0 +1,12 @@
+- name: 
+  src-dir: images/photos/previous/2400x1600
+  thumbnails-dir: images/photos/previous/thumbnail
+  default-width: 2400
+  default-height: 1600
+  note: 
+  photos:
+  - filename: DSCF8177.webp
+  - filename: DSCF8511.webp
+  - filename: 195ab212-59e3-4c79-b639-96f712aa6fcf.webp
+  - filename: DSCF8821.webp
+  - filename: IMG_1974.webp
