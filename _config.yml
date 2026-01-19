@@ -38,7 +38,7 @@ author:
 
 
 # Header settings
-inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
+inline-logo: '<span class="logo"><span class="main-name">MLSS</span><span class="sub-name"><span class="superscript emph">R<span class="emph-second" style="font-size: 1.0em;">&</span>S</span> 2026</span></span>'
 header:
   # heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">R<span style="font-size: 0.8em;">&</span>S</span></span> <span class="sub-name">2026</span></span>'
   heading: '<img src="images/mlss-2026.png" alt="MLSS^R&S 2026" style="max-height: 2.1em; max-width: 90%;">'

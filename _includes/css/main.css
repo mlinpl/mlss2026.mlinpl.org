@@ -126,7 +126,7 @@
 }
 
 .sub-name{
-    font-weight: 400;
+    font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0px;
 }
@@ -136,12 +136,15 @@
     position: relative;
     top: 0.15em;
     vertical-align: super;
-    color: {{ site.color.main }};
     line-height: 0;
 }
 
 .emph {
     color: {{ site.color.main }};
+}
+
+.emph-second {
+    color: {{ site.color.second }};
 }
 
 .big-text {
