@@ -8,6 +8,8 @@
 
     {% include home/about.html %}
 
+    {% include home/stay-informed.html %}
+    
     {% comment %}
     {% include home/speakers-slider.html %}
     {% endcomment %}
@@ -16,17 +18,15 @@
     {% include agenda.html agenda-data=site.data.mlss-agenda %}
     {% endcomment %}
 
-    {% include home/sponsors-call.html %}
-    
     {% comment %}
     {% include home/calls.html %}
     {% endcomment %}
-
+    
     {% include home/timeline.html %}
-
-    {% comment %}
+    
     {% include home/venue.html %}
-    {% endcomment %}
+
+    {% include home/sponsors-call.html %}
 
     {% comment %}
     {% include home/sponsors.html %}
