@@ -69,9 +69,20 @@ for (let slider of sliders) {
     if (sliderTimer) {
       sliderTimer.classList.add('width-from-0-to-100');
       timeoutId = setTimeout(() => {
-        currentIndex = (currentIndex + 1) % sliderItems.length;
-        let nextItem = sliderItems[currentIndex];
-        updateSlider(nextItem);
+        // Find the next announced speaker
+        let nextIndex = currentIndex;
+        let attempts = 0;
+        do {
+          nextIndex = (nextIndex + 1) % sliderItems.length;
+          attempts++;
+        } while (attempts < sliderItems.length && sliderItems[nextIndex].dataset.announced === 'false');
+        
+        // If we found an announced speaker, update to it
+        if (sliderItems[nextIndex].dataset.announced !== 'false') {
+          currentIndex = nextIndex;
+          let nextItem = sliderItems[currentIndex];
+          updateSlider(nextItem);
+        }
       }, TIMEOUT_DURATION);
     }
   }
@@ -84,7 +95,10 @@ for (let slider of sliders) {
 
   sliderItems.forEach((sliderItem, index) => {
     sliderItem.dataset.index = index;
-    sliderItem.addEventListener('click', handleSliderItemClick.bind(null, sliderItem));
+    // Only add click handler for announced speakers
+    if (sliderItem.dataset.announced !== 'false') {
+      sliderItem.addEventListener('click', handleSliderItemClick.bind(null, sliderItem));
+    }
   });
 
   let observer = new IntersectionObserver((entries) => {

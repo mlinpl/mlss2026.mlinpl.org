@@ -1,0 +1,20 @@
+<!-- Invited Speakers Section -->
+<section id="speakers" class="container content-section">
+    <div class="row">
+        <div class="col-lg-12">
+          <h2>/ Speakers</h2>
+        </div>
+        <div class="col-lg-12">
+            <p>
+                {{ site.inline-logo }} will feature <strong>lectures delivered by leading researchers and practitioners working on reliability and safety of machine learning systems</strong>.
+                The list of speakers will be announced gradually.
+            </p>
+        </div>
+    </div>
+    {% include speakers-slider.html 
+        section-id="speakers" 
+        section-title="Speakers" 
+        speakers-data=site.data.speakers 
+        more-is-coming=false
+    %}
+</section>
