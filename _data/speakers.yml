@@ -10,9 +10,13 @@
   bio: >-
     Dominik Janzing is a Principal Research Scientist at Amazon in Tübingen, Germany, where he works on new approaches to causal inference for cloud computing, for example in root cause analysis of anomalies. He is particularly interested in the foundations of causal inference and in defining formal concepts that are both practically useful and domain-independent. He also teaches seminars on causality at the Karlsruhe Institute of Technology.
 
-- name: TBA
-  title:
-  announced: false
+- name: Wojciech Samek
+  title: TU Berlin / Fraunhofer HHI
+  image: images/optimized/speakers-600x600/WojciechSamek.webp
+  bio-intro: >-
+    Wojciech Samek is a Professor in the EECS Department at the Technical University of Berlin and Head of the AI Department at the Fraunhofer Heinrich Hertz Institute (HHI) in Berlin, Germany. He earned a Dipl.-Inf. degree in Computer Science from Humboldt University of Berlin in 2010 and a Ph.D. (with honors) from TU Berlin in 2014. 
+  bio-more: >-
+    After his doctorate, he founded the Machine Learning Group at Fraunhofer HHI, which became an independent department in 2021. He is a Fellow at BIFOLD – the Berlin Institute for the Foundation of Learning and Data – and the ELLIS Unit Berlin. He serves as a member of Germany’s Platform for AI and sits on advisory and executive boards including the WUT Center for Credible AI, AGH University’s AI Center, IDEAS Research Institute, HEIBRiDS, and the DAAD Konrad Zuse School ELIZA. His research focuses on explainable AI (XAI), spanning methods, theory, and applications, with pioneering contributions including Layer-wise Relevance Propagation (LRP), concept-level explainability, evaluation of explanations, and XAI-driven model and data improvement. He has served as Senior Editor of IEEE TNNLS, Associate Editor for several journals, and Area Chair at NeurIPS, ICML, and NAACL. He has received multiple best paper awards (Pattern Recognition 2020, Digital Signal Processing 2022, IEEE SPS 2024, Information Fusion 2025), has co-authored over 250 peer-reviewed papers, and was recognized as a Highly Cited Researcher 2025 by Clarivate.
 
 - name: TBA
   title:
