@@ -20,6 +20,13 @@ Expects following parameters: people-data
                         </i>
                     </a>
                     {% endif %}
+                    {% if person.scholar and person.scholar != "" %}
+                    <a href="{{ person.scholar }}" target="_blank">
+                        <i>
+                            <img src="{{ "images/google-scholar-icon-white.svg" | relative_url }}" style="width: 100%; vertical-align: top;">
+                        </i>
+                    </a>
+                    {% endif %}
                     {% if person.linkedin and person.linkedin != "" %}
                     <a href="{{ person.linkedin }}" target="_blank">
                         <i class="fa-brands fa-linkedin-in"></i>
@@ -28,6 +35,16 @@ Expects following parameters: people-data
                     {% if person.twitter and person.twitter != "" %}
                     <a href="{{ person.twitter }}" target="_blank">
                         <i class="fa-brands fa-x-twitter"></i>
+                    </a>
+                    {% endif %}
+                    {% if person.github and person.github != "" %}
+                    <a href="{{ person.github }}" target="_blank">
+                        <i class="fa-brands fa-github"></i>
+                    </a>
+                    {% endif %}
+                    {% if person.website and person.website != "" %}
+                    <a href="{{ person.website }}" target="_blank">
+                        <i class="fa-solid fa-globe"></i>
                     </a>
                     {% endif %}
                 </div>
