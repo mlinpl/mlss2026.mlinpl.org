@@ -1,27 +1,25 @@
 ---
 layout: page
 title: Terms of Participation
-permalink: /terms
+permalink: /terms-of-participation
 ---
-
-## Terms of Participation in MLSS R&S 2026
 
 ## § 1. DEFINITIONS
 1. Whenever the terms defined hereunder are used in Terms of Participation, they should be understood as follows:
-    1. **MLSS R&S 2026 (or MLSS)** – Machine Learning Summer School on Reliability and Safety, a doctoral summer school carried out by the Organizer from 29 June to 3 July 2026 at the Faculty of Mathematics and Information Technologies of the Jagiellonian University, located at Profesora Stanisława Łojasiewicza 6, 30-348 Kraków.
-    2. **Organizer** – _ML in PL Association_, Plac Bankowy 2, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164.
-    3. **Registration Form** – Internet registration form available on the MLSS website from 9 February 2026 which is submitted by the Candidate in order to qualify for the MLSS.
-    4. **MLSS Pass** - a ticket sent to the e-mail addresses of the Participants, confirming the right to participate in the MLSS.
-    5. **Committee** – a group of organizers of the MLSS indicated on the MLSS website at <https://mlss2026.mlinpl.org> and other members of the personnel of the Organizer.
-    6. **Early Bird Period** – the period from 3rd of February until 8th of March 2026, during which the Candidates can register for the MLSS through the Early Bird Registration Form for a lower MLSS Pass price.
-    7. **Regular Period** – the period from 9th of March during which the Candidates can register for the MLSS through the Registration Form; during the Standard Period the Organizer can introduce Late Ticket Period, during which the price of a MLSS Pass price will be increased.
-    8. **Candidate** – a natural person who submitted the Registration Form in order to qualify to the MLSS.
-    9. **Participant** – a natural person who received the decision on qualification for the MLSS, made payments for participation in the MLSS and received confirmation of participation in a MLSS as a Participant.
-    10. **Lecture** – a specific lecture being part of the MLSS.
+   1. **{{ site.inline-logo }} (or MLSS)** – Machine Learning Summer School on Reliability and Safety, a doctoral summer school carried out by the Organizer from 29 June to 3 July 2026 at the Faculty of Mathematics and Information Technologies of the Jagiellonian University, located at Profesora Stanisława Łojasiewicza 6, 30-348 Kraków.
+   2. **Organizer** – _ML in PL Association_, Plac Bankowy 2, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164.
+   3. **Registration Form** – Internet registration form available on the MLSS website from 9 February 2026 which is submitted by the Candidate in order to qualify for the MLSS.
+   4. **MLSS Pass** - a ticket sent to the e-mail addresses of the Participants, confirming the right to participate in the MLSS.
+   5. **Committee** – a group of organizers of the MLSS indicated on the MLSS website at <https://mlss2026.mlinpl.org> and other members of the personnel of the Organizer.
+   6. **Early Bird Period** – the period from 9th of February until 8th of March 2026, during which the Candidates can register for the MLSS through the Early Bird Registration Form for a lower MLSS Pass price.
+   7. **Regular Period** – the period from 9th of March during which the Candidates can register for the MLSS through the Registration Form; during the Standard Period the Organizer can introduce Late Ticket Period, during which the price of a MLSS Pass price will be increased.
+   8. **Candidate** – a natural person who submitted the Registration Form in order to qualify to the MLSS.
+   9. **Participant** – a natural person who received the decision on qualification for the MLSS, made payments for participation in the MLSS and received confirmation of participation in a MLSS as a Participant.
+   10. **Lecture** – a specific lecture being part of the MLSS.
 
 ## § 2. CONDITIONS FOR PARTICIPATION IN THE MLSS
 ### 1. GENERAL CONDITIONS OF REGISTRATION FOR THE MLSS
-1. The conditions for participation in the MLSS R&S 2026 are:
+1. The conditions for participation in the {{ site.inline-logo }} are:
    1. application for participation in the MLSS in the form of filling in the Registration Form;
    2. making a payment to the Organizer as specified below, unless regulated otherwise;
    3. acceptance of the provisions of these Terms of Participation and the Privacy Policy by the Candidate (the fact of making a payment for participation in the MLSS will mean acceptance of the provisions of these Terms of Participation and the Privacy Policy).
