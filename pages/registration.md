@@ -6,7 +6,7 @@ permalink: /registration
 
 ## Registration form
 
-<a href="TODO" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply here</span></a>
+<a href="TODO" class="btn btn-default btn-lg" disabled><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply here</span></a>
 
 ---
 
@@ -25,12 +25,37 @@ permalink: /registration
 ## Costs
 
 **Participation fee**
-* Early bird, academia: **350 EUR**
-* Regular, academia: **400 EUR**
-* Late bird, academia: **450 EUR**
-* Early bird, non-academia: **700 EUR**
-* Regular, non-academia: **800 EUR**
-* Late bird, non-academia: **900 EUR**
+
+Registration fees vary by deadline and participant type:
+
+<div class="ticket-info">
+<table>
+  <thead class="bg-active">
+    <tr>
+      <th>Registration</th>
+      <th>Academia</th>
+      <th>Non-academia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Early Bird</td>
+      <td>350 EUR</td>
+      <td>700 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular</td>
+      <td>400 EUR</td>
+      <td>800 EUR</td>
+    </tr>
+    <tr>
+      <td>Late Bird</td>
+      <td>450 EUR</td>
+      <td>900 EUR</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 The fee includes participation in the summer school, all the program events, coffee and lunch breaks every day, as well as a party during the school. Other than that, it does not include any substantial food provision (i.e., breakfast or dinner).
 
