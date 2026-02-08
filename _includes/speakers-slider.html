@@ -39,8 +39,8 @@ Expects following parameters:
             {% if speaker.announced == false %}
             <div class="slider-item person item-col-4" data-index="{{ forloop.index0 }}" data-announced="false" style="cursor: default;">
                 <div class="person-photo-wrapper speaker-photo" style="width: 75px;">
-                    <div style="height: 75px; display: flex; align-items: center; justify-content: center; margin: 0">
-                        <i class="fa-solid fa-circle-question" style="font-size: 75px; color: {{ site.color.second }};"></i>
+                    <div>
+                        <img src="{{ "/images/question-mark-1.png" | relative_url }}" alt="{{ speaker.name }} photo">
                     </div>
                 </div>
                 <div class="center-verticaly" style="max-height: 92px;">
