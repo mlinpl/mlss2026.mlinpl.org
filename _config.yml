@@ -83,8 +83,8 @@ navigation:
   - name: "/ Timeline"
     url: "#timeline"
 
-  # - name: "/ Registration"
-  #   url: "registration"
+  - name: "/ Registration"
+    url: "registration"
 
   - name: "/ Organizers"
     url: "#organizers"
