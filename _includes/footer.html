@@ -1,6 +1,29 @@
 <!-- Footer -->
 <footer>
     <div class="container text-center" style="margin-top: 100px;">
-        <p>Copyright &copy; 20{{ site.time | date: '%y' }} {{ site.footer }}</p>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="list-inline">
+                    <li class="me-3">
+                        <a href="{{ "./terms-of-participation" | relative_url }}" class="btn btn-default btn-small">
+                            <i class="fa-solid fa-file-lines"></i> Terms of participation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default btn-small">
+                            <i class="fa-solid fa-file-lines"></i> Privacy policy
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ "./anti-harassment-policy" | relative_url }}" class="btn btn-default btn-small">
+                            <i class="fa-solid fa-file-lines"></i> Anti-Harassment Policy
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <row>
+            <p>Copyright &copy; 20{{ site.time | date: '%y' }} {{ site.footer }}</p>
+        </row>
     </div>
 </footer>
