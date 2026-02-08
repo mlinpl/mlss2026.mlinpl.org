@@ -1,4 +1,4 @@
-<div class="container content-section">
+<div id="registration" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
             <h2>/ Registration</h2>
@@ -7,11 +7,12 @@
     <div class="row d-flex align-items-center">
         <div class="col-lg-12">
             <p>
-                Register for {{ site.inline-logo }}, 
+                Applications are now open for {{ site.inline-logo }}. Learn more about the application process and secure your spot!
             </p>
             <div class="d-flex justify-content-center">
-                <a href="{{ "./registration" | relative_url }}" target="_blank" class="btn btn-primary btn-lg">Register</a>
+                <a href="{{ "./registration" | relative_url }}" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Register for the school</span></a>
             </div>
+
         </div>
     </div>
     <div class="row" style="margin-top: 1em;">
@@ -25,6 +26,11 @@
                 <li>
                     <a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default btn-small">
                         <i class="fa-solid fa-file-lines"></i> Privacy policy
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ "./anti-harassment-policy" | relative_url }}" class="btn btn-default btn-small">
+                        <i class="fa-solid fa-file-lines"></i> Anti-Harassment Policy
                     </a>
                 </li>
             </ul>

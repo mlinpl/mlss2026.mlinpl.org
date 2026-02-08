@@ -50,7 +50,8 @@ header:
   #countdown-text: '<a href="registration">Registration</a> closes in:'
   # countdown-overwrite: 'Thank you for participating!'
   # countdown-overwrite: ''
-  arrow-url: "#about"
+  # arrow-url: "#about"
+  arrow-url: "#registration"
 
 # Navigation settings
 navigation:

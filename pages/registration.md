@@ -6,7 +6,7 @@ permalink: /registration
 
 ## Registration form
 
-<a href="TODO" class="btn btn-default btn-lg" disabled><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply here</span></a>
+<a href="TODO" class="btn btn-default btn-lg" disabled><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply for MLSS 2026</span></a>
 
 ---
 
@@ -68,8 +68,13 @@ The fee includes participation in the summer school, all the program events, cof
 
 ## Application instructions
 
-* To apply for summer school, fill out [the application form](TODO).
+* To apply for summer school, fill out the application form below.
 * Since the number of people who can attend the summer school in person is limited, we will only be able to accept selected applications. The selection will be based on the submitted CV.
+
+<div class="d-flex justify-content-center">
+    <a href="TODO" class="btn btn-default btn-lg" disabled><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply for MLSS 2026</span></a>
+</div>
+<br/>
 
 ## Frequently Asked Questions (FAQ)
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information.
