@@ -7,6 +7,12 @@
   photos:
   - filename: DSCF8177.webp
   - filename: DSCF8511.webp
+    width: 2400
+    height: 1029
   - filename: 195ab212-59e3-4c79-b639-96f712aa6fcf.webp
+    width: 2048
+    height: 1152
   - filename: DSCF8821.webp
   - filename: IMG_1974.webp
+    width: 2133
+    height: 1600
