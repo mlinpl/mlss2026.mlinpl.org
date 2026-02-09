@@ -61,7 +61,7 @@ The fee includes participation in the summer school, all the program events, cof
 
 **Estimated additional costs (on the higher end of the spectrum):**
 - 1 EUR ~= 4.2 PLN
-- Recommended hotel: Hotel Convictus Cracovia [https://convictus.pl/en/] (We will provide the discount code shortly.)
+- Recommended hotel: [Hotel Convictus Cracovia](https://convictus.pl/en/) (We will provide the discount code shortly.)
 - Food: 150PLN/day
 - Public transport: 60PLN / week
 - More about [prices in Kraków](https://www.numbeo.com/cost-of-living/in/Krakow-Cracow)
