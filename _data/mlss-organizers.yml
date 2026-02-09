@@ -1,13 +1,3 @@
-# - name: prof. Jacek Tabor
-#   title: Organizer
-#   linkedin: https://www.linkedin.com/in/jacek-tabor-56b23b68/
-#   image: images/organizers/JacekTabor.jpg
-
-# - name: prof. Łukasz Struski
-#   title: Organizer
-#   linkedin: https://www.linkedin.com/in/%C5%82ukasz-struski-8b1a0aa5/
-#   image: images/organizers/LukaszStruski.jpg
-  
 - name: Łukasz Janisiów
   title: Project Leader
   image: images/optimized/organizers-300x300/LukaszJanisiow.webp
@@ -24,7 +14,7 @@
   image: images/optimized/organizers-300x300/HonorataZych.webp
 
 - name: Marcin Osial
-  title: Co-Project Leader, Sponsors
+  title: Co-Project Leader
   image: images/optimized/organizers-300x300/MarcinOsial.webp
 
 - name: Onur Akman
@@ -32,32 +22,21 @@
   image: images/optimized/organizers-300x300/OnurAkman.webp
   linkedin: https://www.linkedin.com/in/aonurakman/
 
+- name: Adam Goliński
+  title: Program
+  linkedin: https://www.linkedin.com/in/adamgol/
+  twitter: https://x.com/adam_golinski
+  image: images/optimized/organizers-300x300/AdamGolinski.webp
+
 - name: Marcin Przewięźlikowski
   title: Program
   image: images/optimized/organizers-300x300/MarcinPrzewiezlikowski.webp
   scholar: https://scholar.google.com/citations?user=yQkER-MAAAAJ
 
-- name: Anna Szymanek
-  title: Marketing
-  image: images/optimized/organizers-300x300/AnnaSzymanek.webp
-  linkedin: https://www.linkedin.com/in/anna-szymanek/
-
-- name: Maria Wyrzykowska
-  title: Marketing
-  image: images/optimized/organizers-300x300/MariaWyrzykowska.webp
-  linkedin: https://www.linkedin.com/in/maria-wyrzykowska-1129141b8/
-
 - name: Mateusz Pyla
   title: Program
   image: images/optimized/organizers-300x300/MateuszPyla.webp
   linkedin: https://www.linkedin.com/in/mateusz-pyla-91303b135/
-
-- name: Filip Szatkowski
-  title: Program
-  image: images/optimized/organizers-300x300/FilipSzatkowski.webp
-  website: https://fszatkowski.github.io/
-  scholar: https://scholar.google.com/citations?user=xjnAIOEAAAAJ
-  linkedin: https://www.linkedin.com/in/fszatkowski/
 
 - name: Dawid Rymarczyk
   title: Program
@@ -69,6 +48,23 @@
   image: images/optimized/organizers-300x300/MarcinSendera.webp
   # linkedin: https://www.linkedin.com/in/marcin-sendera-976516123/
   website: https://msendera.github.io
+
+- name: Filip Szatkowski
+  title: Program
+  image: images/optimized/organizers-300x300/FilipSzatkowski.webp
+  website: https://fszatkowski.github.io/
+  scholar: https://scholar.google.com/citations?user=xjnAIOEAAAAJ
+  linkedin: https://www.linkedin.com/in/fszatkowski/
+
+- name: Anna Szymanek
+  title: Marketing
+  image: images/optimized/organizers-300x300/AnnaSzymanek.webp
+  linkedin: https://www.linkedin.com/in/anna-szymanek/
+
+- name: Maria Wyrzykowska
+  title: Marketing
+  image: images/optimized/organizers-300x300/MariaWyrzykowska.webp
+  linkedin: https://www.linkedin.com/in/maria-wyrzykowska-1129141b8/
 
 # - name: Kamil Bladoszewski
 #   title: Finance
