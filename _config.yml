@@ -78,8 +78,8 @@ navigation:
         url: "#speakers"
       - name: "/ Program format"
         url: "#program-format"
-      # - name: "/ Venue"
-      #   url: "#venue"
+      - name: "/ Venue"
+        url: "#venue"
 
   - name: "/ Timeline"
     url: "#timeline"

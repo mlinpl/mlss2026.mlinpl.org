@@ -59,3 +59,5 @@ optimize_images speakers 600x600 webp 90
 optimize_images sponsors 600x600 webp 90
 
 optimize_images ai-generated 800x800 webp 90
+
+optimize_images misc 800x800 webp 90
