@@ -72,6 +72,15 @@
   twitter: ""
   image: "images/optimized/organizers-300x300/AlicjaGrochocka-Dorocinska.webp"
 
+- name: Agata Bader
+  title: Sponsors
+  linkedin: https://www.linkedin.com/in/agata-bader-ab4236a/
+  image: images/optimized/organizers-300x300/AgataBader.webp
+
+- name: Artur Kołodziejczyk-Skowron
+  title: Sponsors
+  linkedin: https://www.linkedin.com/in/artur-kołodziejczyk-skowron-phd
+  image: images/optimized/organizers-300x300/ArturKolodziejczykSkowron.webp
 
 # - name: Kamil Bladoszewski
 #   title: Finance
