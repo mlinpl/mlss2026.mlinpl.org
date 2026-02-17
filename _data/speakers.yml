@@ -18,9 +18,13 @@
   bio-more: >-
     After his doctorate, he founded the Machine Learning Group at Fraunhofer HHI, which became an independent department in 2021. He is a Fellow at BIFOLD – the Berlin Institute for the Foundation of Learning and Data – and the ELLIS Unit Berlin. He serves as a member of Germany’s Platform for AI and sits on advisory and executive boards including the WUT Center for Credible AI, AGH University’s AI Center, IDEAS Research Institute, HEIBRiDS, and the DAAD Konrad Zuse School ELIZA. His research focuses on explainable AI (XAI), spanning methods, theory, and applications, with pioneering contributions including Layer-wise Relevance Propagation (LRP), concept-level explainability, evaluation of explanations, and XAI-driven model and data improvement. He has served as Senior Editor of IEEE TNNLS, Associate Editor for several journals, and Area Chair at NeurIPS, ICML, and NAACL. He has received multiple best paper awards (Pattern Recognition 2020, Digital Signal Processing 2022, IEEE SPS 2024, Information Fusion 2025), has co-authored over 250 peer-reviewed papers, and was recognized as a Highly Cited Researcher 2025 by Clarivate.
 
-- name: TBA
-  title:
-  announced: false
+- name: Adam Dziedzic
+  title: CISPA Helmholtz Center
+  image: images/optimized/speakers-600x600/AdamDziedzic.webp
+  bio-intro: >-
+    Adam is a faculty member at CISPA Helmholtz Center for Information Security, co-leading the SprintML group. His research is focused on secure and trustworthy Machine Learning. Adam was a Postdoctoral Fellow at the Vector Institute and the University of Toronto, and a member of the CleverHans Lab, advised by Prof. Nicolas Papernot. 
+  bio-more: >-
+    He earned his PhD at the University of Chicago, where he was advised by Prof. Sanjay Krishnan and worked on input and model compression for adaptive and robust neural networks. Adam obtained his Bachelor's and Master's degrees from the Warsaw University of Technology in Poland. He was also studying at DTU (Technical University of Denmark)and carried out research at EPFL, Switzerland. Adam also worked at CERN (Geneva, Switzerland), Barclays Investment Bank in London (UK), Microsoft Research (Redmond, USA), and Google (Madison, USA).
 
 - name: TBA
   title:
