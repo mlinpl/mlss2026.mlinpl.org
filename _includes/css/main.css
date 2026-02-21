@@ -483,6 +483,11 @@ ol > li > ol > li > ol > li:before {
     padding: 3px 6px;
 }
 
+.btn-medium {
+    font-size: 0.75em;
+    padding: 6px 12px;
+}
+
 .btn-default{
     margin-bottom: 4px;
 }
@@ -621,6 +626,22 @@ ol > li > ol > li > ol > li:before {
     outline: 0;
     color: {{ site.color.background }};
     background-color: {{ site.color.main }};
+}
+
+.btn-primary {
+    border: 1px solid {{ site.color.main }};
+    color: {{ site.color.background }};
+    background-color: {{ site.color.main }};
+    border-radius: 0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    border: 1px solid {{ site.color.main }};
+    outline: 0;
+    color: {{ site.color.background }};
+    background-color: {{ site.color.main }};
+    opacity: 0.9;
 }
 
 .btn-nonactive {
