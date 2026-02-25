@@ -68,11 +68,11 @@
 #       image: "images/optimized/sponsors-600x600/TCL.webp"
 #       url: "https://tcl-research.pl"
 
-- title: "/ Partners"
-  imageMaxWidth: 280px
-  imageMaxHeight: 120px
-  margin: 30px 45px
-  sponsors:
+# - title: "/ Partners"
+#   imageMaxWidth: 280px
+#   imageMaxHeight: 120px
+#   margin: 30px 45px
+#   sponsors:
     # - name: Hugging Face
     #   image: images/optimized/partners-600x600/HuggingFace.webp
     #   url: "https://huggingface.co/"
@@ -82,9 +82,9 @@
     # - name: LOT Polish Airlines
     #   image: "images/optimized/sponsors-600x600/LOT.webp"
     #   url: "https://www.lot.com/pl/en"
-    - name: OCTO Legal
-      image: "images/optimized/sponsors-600x600/OCTOLegal.webp"
-      url: "https://octolegal.com/"
+    # - name: OCTO Legal
+    #   image: "images/optimized/sponsors-600x600/OCTOLegal.webp"
+    #   url: "https://octolegal.com/"
 
 # - title: "/ Honorary Patronages"
 #   imageMaxWidth: 270px
@@ -110,11 +110,14 @@
 #       image: "images/optimized/honorary-patronages-600x600/WEiTI.webp"
 #       url: https://www.elka.pw.edu.pl/eng/
 
-# - title: "/ Media partners"
-#   imageMaxWidth: 215px
-#   imageMaxHeight: 115px
-#   margin: 20px 30px
-#   sponsors:
+- title: "/ Media partners"
+  imageMaxWidth: 215px
+  imageMaxHeight: 115px
+  margin: 20px 30px
+  sponsors:
+    - name: AI Safety Poland
+      image: "images/partners/ai-safety-poland.svg"
+      url: "https://aisafety.org.pl/"
 #     - name: Advaiseme
 #       image: "images/optimized/partners-600x600/Advaiseme.webp"
 #       url:
