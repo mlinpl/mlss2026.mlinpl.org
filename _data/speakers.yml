@@ -26,9 +26,13 @@
   bio-more: >-
     He earned his PhD at the University of Chicago, where he was advised by Prof. Sanjay Krishnan and worked on input and model compression for adaptive and robust neural networks. Adam obtained his Bachelor's and Master's degrees from the Warsaw University of Technology in Poland. He was also studying at DTU (Technical University of Denmark)and carried out research at EPFL, Switzerland. Adam also worked at CERN (Geneva, Switzerland), Barclays Investment Bank in London (UK), Microsoft Research (Redmond, USA), and Google (Madison, USA).
 
-- name: TBA
-  title:
-  announced: false
+- name: Randall Balestriero
+  title: Brown University / Meta AI Research
+  image: images/optimized/speakers-600x600/RandallBalestriero.webp
+  bio-intro: >-
+    Randall Balestriero is an Assistant Professor of Computer Science at Brown University in Providence, where he leads the Galilai Group. He has been doing research in learnable signal processing since 2013, in particular with learnable parametrized wavelets which have then been extended for deep wavelet transforms. The latter has found many applications, e.g., in NASA's Mars rover for marsquake detection. 
+  bio-more: >- 
+    In 2016, when joining Rice University for a PhD with Prof. Richard Baraniuk, he broadened his scope to explore Deep Networks from a theoretical perspective by employing affine spline operators. This led him to revisit and improve state-of-the-art methods, e.g., batch-normalization or generative networks. In 2021 when joining Meta AI Research (FAIR) for a postdoc with Prof. Yann LeCun, he further enlarged his research interests e.g. to include self-supervised learning or biases emerging from data-augmentation and regularization leading to many publications and conference tutorials.
 
 - name: TBA
   title:
