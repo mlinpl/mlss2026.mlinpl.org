@@ -34,9 +34,15 @@
   bio-more: >- 
     In 2016, when joining Rice University for a PhD with Prof. Richard Baraniuk, he broadened his scope to explore Deep Networks from a theoretical perspective by employing affine spline operators. This led him to revisit and improve state-of-the-art methods, e.g., batch-normalization or generative networks. In 2021 when joining Meta AI Research (FAIR) for a postdoc with Prof. Yann LeCun, he further enlarged his research interests e.g. to include self-supervised learning or biases emerging from data-augmentation and regularization leading to many publications and conference tutorials.
 
-- name: TBA
-  title:
-  announced: false
+- name: Fazl Barez
+  title: University of Oxford
+  image: images/optimized/speakers-600x600/FazlBarez.webp
+  bio-intro: >-
+    Fazl Barez is a Senior Research Fellow at the University of Oxford's Martin AI Governance Initiative, where he serves as Principal Investigator leading research on AI safety, interpretability and governance.
+    His work focuses on mechanistic interpretability of large models, safety evaluations, deceptive behaviours, and techniques such as model editing and machine unlearning. A central theme of his research is moving from observing model behaviour to understanding and systematically improving it.
+  bio-more: >-
+    Alongside his academic work, Fazl is involved in Martian, an independent research group focused on understanding machine intelligence from first principles. The team brings together researchers with experience across major AI labs, including Anthropic, Google DeepMind, and Meta, combining frontier-model research with long-term safety perspectives.
+    His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability —– a perspective closely aligned with this year’s focus on reliability and safety.
 
 - name: TBA
   title:
