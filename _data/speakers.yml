@@ -2,13 +2,19 @@
   title: CISPA Helmholtz Center
   image: images/optimized/speakers-600x600/FranziskaBoenisch.webp
   bio: >-
-    Franziska is a tenure-track faculty at the CISPA Helmholtz Center for Information Security, where she co-leads the SprintML lab. Her research focuses on private and trustworthy machine learning; during her Ph.D. at Freie Universität Berlin and Fraunhofer AISEC she pioneered the notion of individualized privacy in ML. Before joining CISPA, she was a Postdoctoral Fellow at the University of Toronto and the Vector Institute. She received an ERC Starting Grant in 2025 for research on privacy in foundation models and has been recognized with the Fraunhofer ICT Dissertation Award (2023), a GI Junior Fellowship (2024), and a Werner-von-Siemens Fellowship (2025).
+    Franziska is a tenure-track faculty at the CISPA Helmholtz Center for Information Security, where she co-leads the SprintML lab. 
+    
+    Her research focuses on private and trustworthy machine learning. During her Ph.D. at Freie Universität Berlin and Fraunhofer AISEC, she pioneered the notion of individualized privacy in ML. Before joining CISPA, she was a Postdoctoral Fellow at the University of Toronto and the Vector Institute. 
+    
+    Franziska is the recipient of an ERC Starting Grant (2025) for research on privacy in foundation models, and her work has been recognised with the Fraunhofer ICT Dissertation Award (2023), GI Junior Fellowship (2024), and Werner-von-Siemens Fellowship (2025). 
 
 - name: Dominik Janzing
   image: images/optimized/speakers-600x600/DominikJanzing.webp
   title: Amazon
   bio: >-
-    Dominik Janzing is a Principal Research Scientist at Amazon in Tübingen, Germany, where he works on new approaches to causal inference for cloud computing, for example in root cause analysis of anomalies. He is particularly interested in the foundations of causal inference and in defining formal concepts that are both practically useful and domain-independent. He also teaches seminars on causality at the Karlsruhe Institute of Technology.
+    Dominik Janzing is a Principal Research Scientist at Amazon in Tübingen, Germany, where he works on new approaches to causal inference for cloud computing, for example in root cause analysis of anomalies. He is particularly interested in the foundations of causal inference and in defining formal concepts that are both practically useful and domain-independent. 
+    
+    In addition to his research at Amazon, Dominik teaches seminars on causality at the Karlsruhe Institute of Technology (KIT).
 
 - name: Wojciech Samek
   title: TU Berlin / Fraunhofer HHI
@@ -30,7 +36,9 @@
   title: Brown University / Meta AI Research
   image: images/optimized/speakers-600x600/RandallBalestriero.webp
   bio-intro: >-
-    Randall Balestriero is an Assistant Professor of Computer Science at Brown University in Providence, where he leads the Galilai Group. He has been doing research in learnable signal processing since 2013, in particular with learnable parametrized wavelets which have then been extended for deep wavelet transforms. The latter has found many applications, e.g., in NASA's Mars rover for marsquake detection. 
+    Randall Balestriero is an Assistant Professor of Computer Science at Brown University in Providence, where he leads the Galilai Group. 
+    
+    He has been doing research in learnable signal processing since 2013, in particular with learnable parametrized wavelets which have then been extended for deep wavelet transforms. The latter has found many applications, e.g., in NASA's Mars rover for marsquake detection. 
   bio-more: >- 
     In 2016, when joining Rice University for a PhD with Prof. Richard Baraniuk, he broadened his scope to explore Deep Networks from a theoretical perspective by employing affine spline operators. This led him to revisit and improve state-of-the-art methods, e.g., batch-normalization or generative networks. In 2021 when joining Meta AI Research (FAIR) for a postdoc with Prof. Yann LeCun, he further enlarged his research interests e.g. to include self-supervised learning or biases emerging from data-augmentation and regularization leading to many publications and conference tutorials.
 
@@ -42,7 +50,7 @@
     His work focuses on mechanistic interpretability of large models, safety evaluations, deceptive behaviours, and techniques such as model editing and machine unlearning. A central theme of his research is moving from observing model behaviour to understanding and systematically improving it.
   bio-more: >-
     Alongside his academic work, Fazl is involved in Martian, an independent research group focused on understanding machine intelligence from first principles. The team brings together researchers with experience across major AI labs, including Anthropic, Google DeepMind, and Meta, combining frontier-model research with long-term safety perspectives.
-    His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability —– a perspective closely aligned with this year’s focus on reliability and safety.
+    His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability — a perspective closely aligned with this year’s focus on reliability and safety.
 
 - name: TBA
   title:
