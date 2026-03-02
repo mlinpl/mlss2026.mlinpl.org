@@ -7,7 +7,7 @@ permalink: /terms-of-participation
 ## § 1. DEFINITIONS
 1. Whenever the terms defined hereunder are used in Terms of Participation, they should be understood as follows:
    1. **{{ site.inline-logo }} (or MLSS)** – Machine Learning Summer School on Reliability and Safety, a doctoral summer school carried out by the Organizer from 29 June to 3 July 2026 at the Faculty of Mathematics and Information Technologies of the Jagiellonian University, located at Profesora Stanisława Łojasiewicza 6, 30-348 Kraków.
-   2. **Organizer** – _ML in PL Association_, Plac Bankowy 2, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164.
+   2. **Organizer** – _ML in PL Association_, Plac Bankowy 2, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164 and *IDEAS Research Institute*, Królewska 27, 00-071 Warszawa, KRS: 0001167539, NIP: 5253042617, REGON: 541475394.
    3. **Registration Form** – Internet registration form available on the MLSS website from 9 February 2026 which is submitted by the Candidate in order to qualify for the MLSS.
    4. **MLSS Pass** - a ticket sent to the e-mail addresses of the Participants, confirming the right to participate in the MLSS.
    5. **Committee** – a group of organizers of the MLSS indicated on the MLSS website at <https://mlss2026.mlinpl.org> and other members of the personnel of the Organizer.
