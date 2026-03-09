@@ -52,9 +52,13 @@
     Alongside his academic work, Fazl is involved in Martian, an independent research group focused on understanding machine intelligence from first principles. The team brings together researchers with experience across major AI labs, including Anthropic, Google DeepMind, and Meta, combining frontier-model research with long-term safety perspectives.
     His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability — a perspective closely aligned with this year’s focus on reliability and safety.
 
-- name: TBA
-  title:
-  announced: false
+- name: Alexandra Gomez-Villa
+  title: Universitat Autònoma de Barcelona
+  image: images/optimized/speakers-600x600/AlexandraGomezVilla.webp
+  bio-intro: >-
+    Dr. Alexandra Gomez-Villa is an Assistant Professor at the Universitat Autònoma de Barcelona, Spain, where she is a member of the Computer Vision Center. Her research focuses on emergent properties in foundation models, continual learning, and generative image models. 
+  bio-more: >-
+    She completed her PhD at the Computer Vision Center, with previous research positions at Universitat de València and Universitat Pompeu Fabra. She has published in leading venues including CVPR, NeurIPS, ICLR, and ECCV, with over 1140 citations.
 
 - name: TBA
   title:
