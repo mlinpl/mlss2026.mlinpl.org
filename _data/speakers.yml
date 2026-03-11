@@ -60,13 +60,17 @@
   bio-more: >-
     She completed her PhD at the Computer Vision Center, with previous research positions at Universitat de València and Universitat Pompeu Fabra. She has published in leading venues including CVPR, NeurIPS, ICLR, and ECCV, with over 1140 citations.
 
-- name: TBA
-  title:
-  announced: false
+- name: Anna Sztyber-Betley
+  title: Warsaw University of Technology / Truthful AI
+  image: images/optimized/speakers-600x600/AnnaSztyber-Betley.webp
+  bio: >-
+    Anna Sztyber-Betley is an assistant professor at the Institute of Automatic Control and Robotics, Faculty of Mechatronics, WUT. She is an enthusiast of AI and ML education. Recently cooperates with Truthful AI (Berkeley) on AI Safety projects.
 
-- name: TBA
-  title:
-  announced: false
+- name: Jan Betley
+  title: Truthful AI
+  image: images/optimized/speakers-600x600/JanBetley.webp
+  bio: >-
+    Jan worked as a software developer for over a decade before shifting to AI safety in 2023. He is an ARENA and Astra Fellowship alumni, interested in anything related to out-of-context reasoning in LLMs. Currently works as an independent researcher with Truthful AI, Berkeley.
 
 - name: TBA
   title:
