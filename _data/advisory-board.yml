@@ -1,13 +1,22 @@
 - name: prof. Jacek Tabor
-  title: Advisory Board Chair
+  title: Scientific Committee Member
   linkedin: https://www.linkedin.com/in/jacek-tabor-56b23b68/
   image: images/optimized/organizers-300x300/JacekTabor.webp
+  scholar: https://scholar.google.pl/citations?user=zSKYziUAAAAJ&hl=pl
+
+- name: prof. Bartosz Zieliński
+  title: Scientific Committee Member
+  linkedin: https://www.linkedin.com/in/bartosz-zieli%C5%84ski-1b2b1ab/
+  image: images/optimized/organizers-300x300/BartoszZielinski.webp
+  scholar: https://scholar.google.com/citations?user=AJHaOpkAAAAJ&hl=pl
+
+- name: prof. Wojciech Samek
+  title: Scientific Committee Member
+  image: images/optimized/organizers-300x300/WojciechSamek.webp
+  scholar: https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en
 
 - name: prof. Łukasz Struski
   title: Advisory Board Chair
   linkedin: https://www.linkedin.com/in/%C5%82ukasz-struski-8b1a0aa5/
   image: images/optimized/organizers-300x300/LukaszStruski.webp
-
-- name: prof. Bartosz Zieliński
-  title: Advisory Board Chair
-  image: images/optimized/organizers-300x300/BartoszZielinski.webp
+  scholar: https://scholar.google.com/citations?user=_lWKf3UAAAAJ&hl=pl
