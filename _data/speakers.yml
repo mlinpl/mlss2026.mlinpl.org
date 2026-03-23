@@ -72,6 +72,14 @@
   bio: >-
     Jan worked as a software developer for over a decade before shifting to AI safety in 2023. He is an ARENA and Astra Fellowship alumni, interested in anything related to out-of-context reasoning in LLMs. Currently works as an independent researcher with Truthful AI, Berkeley.
 
+- name: Tomasz Michalak
+  title: IDEAS RI / Ellis Unit Warsaw
+  image: images/optimized/speakers-600x600/TomaszMichalak.webp
+  bio-intro: >-
+    Tomasz Michalak is a lecturer at the Faculty of Mathematics, Computer Science and Mechanics of the University of Warsaw. During his academic career, he conducted research at the Department of Computer Science at the University of Oxford, at the School of Engineering and Computer Science at the University of Southampton, at the Department of Computer Science at the University of Liverpool and at the Department of Applied Economics at the University of Antwerp. He is a graduate of the Faculty of Economic Sciences at the University of Warsaw. He received his PhD in economics from the Faculty of Applied Economics of the University of Antwerp. Member of ELLIS Society. 
+  bio-more: >-
+    His research interests include artificial intelligence, social networks, fintech and cybersecurity, computational social sciences, multi-agent systems and game theory. Currently, he conducts research on applications of game theory in networks and issues related to security and machine learning. He is the leader of the AI Strategy Lab at the IDEAS Research Institute and member of the ELLIS Unit Warsaw.
+
 - name: TBA
   title:
   announced: false 
