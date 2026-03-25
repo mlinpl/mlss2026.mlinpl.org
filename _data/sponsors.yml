@@ -25,11 +25,14 @@
     #   image: "images/optimized/sponsors-600x600/OCTOLegal.webp"
     #   url: "https://octolegal.com/"
 
-# - title: "/ Honorary Patronages"
-#   imageMaxWidth: 270px
-#   imageMaxHeight: 160px
-#   margin: 30px 45px
-#   sponsors:
+- title: "/ Honorary Patronages"
+  imageMaxWidth: 270px
+  imageMaxHeight: 160px
+  margin: 30px 45px
+  sponsors:
+    - name: Minister of Digital Affairs
+      image: "images/optimized/honorary-patronages-600x600/MinisterOfDigitalAffairs.webp"
+      url: "https://www.gov.pl/web/cyfryzacja"
 #     - name: Centrum Nauki Kopernik
 #       image: "images/optimized/honorary-patronages-600x600/CNK.webp"
 #       url: "https://www.kopernik.org.pl/en"
