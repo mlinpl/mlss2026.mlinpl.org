@@ -50,7 +50,7 @@
     His work focuses on mechanistic interpretability of large models, safety evaluations, deceptive behaviours, and techniques such as model editing and machine unlearning. A central theme of his research is moving from observing model behaviour to understanding and systematically improving it.
   bio-more: >-
     Alongside his academic work, Fazl is involved in Martian, an independent research group focused on understanding machine intelligence from first principles. The team brings together researchers with experience across major AI labs, including Anthropic, Google DeepMind, and Meta, combining frontier-model research with long-term safety perspectives.
-    His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability — a perspective closely aligned with this year’s focus on reliability and safety.
+    His broader experience spans academic research, frontier AI labs, and international initiatives on AI risk and reliability – a perspective closely aligned with this year’s focus on reliability and safety.
 
 - name: Alexandra Gomez-Villa
   title: Universitat Autònoma de Barcelona
@@ -80,9 +80,11 @@
   bio-more: >-
     His research interests include artificial intelligence, social networks, fintech and cybersecurity, computational social sciences, multi-agent systems and game theory. Currently, he conducts research on applications of game theory in networks and issues related to security and machine learning. He is the leader of the AI Strategy Lab at the IDEAS Research Institute and member of the ELLIS Unit Warsaw.
 
-- name: TBA
-  title:
-  announced: false 
+- name: Wojciech Kusa
+  title: NASK
+  image: images/optimized/speakers-600x600/WojciechKusa.webp
+  bio: >-
+    Wojciech is an Assistant Professor at NASK National Research Institute in Warsaw, Poland, where he leads the NLP Department. His work focuses on building safe and trustworthy language technologies, with a current emphasis on developing PLLuM – an open Polish large language model designed for reliability and critical applications, including public sector use. Wojciech earned his PhD from TU Wien and was a Marie Skłodowska-Curie Research Fellow in the EU Horizon 2020 DoSSIER project. He has also been a visiting researcher at University College London and the University of Queensland. 
 
 - name: TBA
   title:
