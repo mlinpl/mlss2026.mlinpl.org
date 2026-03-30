@@ -1,6 +1,6 @@
-- title: '/ Sponsors'
+- title: '/ <span class="gold-shine-text">Gold sponsors</span>'
   imageMaxWidth: 280px
-  imageMaxHeight: 100px
+  imageMaxHeight: 90px
   margin: 30px 45px
   sponsors:
     - name: Google
