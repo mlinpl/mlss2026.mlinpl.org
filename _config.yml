@@ -87,6 +87,9 @@ navigation:
   - name: "/ Registration"
     url: "registration"
 
+  - name: "/ Sponsors"
+    url: "#sponsors"
+
   - name: "/ Organizers"
     url: "#organizers"
 
