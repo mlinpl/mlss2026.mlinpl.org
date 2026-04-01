@@ -28,3 +28,8 @@
   description: |
     ELLIS Unit Warsaw is part of the European ELLIS network, advancing research in&nbsp;trustworthy, robust, and&nbsp;efficient Al.
   maxWidth: 500px
+
+- name: Jagiellonian Center for Artificial Intelligence
+  logo: ./images/institutions-logos/jcai.svg
+  description: |
+    JCAI brings together researchers across Jagiellonian University to unify and accelerate AI research, fostering interdisciplinary collaboration and real-world impact.
