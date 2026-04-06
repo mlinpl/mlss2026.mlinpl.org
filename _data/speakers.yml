@@ -1,11 +1,12 @@
 - name: Franziska Boenisch
   title: CISPA Helmholtz Center
   image: images/optimized/speakers-600x600/FranziskaBoenisch.webp
-  bio: >-
+  bio-intro: >-
     Franziska is a tenure-track faculty at the CISPA Helmholtz Center for Information Security, where she co-leads the SprintML lab. 
     
     Her research focuses on private and trustworthy machine learning. During her Ph.D. at Freie Universität Berlin and Fraunhofer AISEC, she pioneered the notion of individualized privacy in ML. Before joining CISPA, she was a Postdoctoral Fellow at the University of Toronto and the Vector Institute. 
     
+  bio-more: >-
     Franziska is the recipient of an ERC Starting Grant (2025) for research on privacy in foundation models, and her work has been recognised with the Fraunhofer ICT Dissertation Award (2023), GI Junior Fellowship (2024), and Werner-von-Siemens Fellowship (2025). 
 
 - name: Dominik Janzing
@@ -94,9 +95,14 @@
   bio-more: >-
     He has authored five book monographs, including "Robotics, AI and Criminal Law: Crimes against Robots" published by Routledge in 2023 and "Ethics in Human-like Robots" (Routledge) published in 2024. His sixth book, "AI Ethics: An Introduction" (in Polish), is under contract with Copernicus Center Press. He has published more than 60 peer-reviewed journal articles and contributed chapters. His works were published in international journals, including Philosophical Studies; Topoi; Episteme; Oxford Intersections: AI in Society; AI & Society; Ratio Juris; Ethics and Information Technology; Journal of Criminal Justice; European Journal of Criminology; International Journal of Social Robotics; Medicine, Healthcare, and Philosophy; Science and Engineering Ethics; European Journal of Crime, Criminal Law and Criminal Justice; Frontiers in Robotics and AI, and Criminal Justice Studies. He received a research grant from the National Science Center in Poland. He is a recipient of the Minister’s Scholarship for Outstanding Young Scientists and the Scientific Award of "Polityka" weekly 2023 (in the category: philosophy/law).
 
-- name: TBA
-  title:
-  announced: false
+- name: Adel Bibi
+  title: University of Oxford
+  image: images/optimized/speakers-600x600/AdelBibi.webp
+  bio-intro: >-
+    Adel Bibi is a Senior Researcher in machine learning and computer vision at the Department of Engineering Science, University of Oxford. He also serves as an R&D Distinguished Advisor at SoftServe and is a member of the ELLIS Society. He received his MSc and PhD from King Abdullah University of Science and Technology (KAUST) in 2016 and 2020, respectively. 
+  bio-more: >-
+    His work has been recognized through several competitive awards, including the KAUST CRG Award for research on robust deep learning, an Amazon Research Award (2022) in the Machine Learning Algorithms and Theory track, the Google Gemma 2 Academic Award (2024), and a Systemic AI Safety grant from the UK AI Security Institute (2025), as well as grants from Toyota and Coefficient Giving in 2025.
+    Adel has received five best paper awards, including an Outstanding Paper Award at the LASS Workshop (CIKM 2025), as well as awards at workshops affiliated with NeurIPS 2023, ICML 2023, and CVPR 2022, and earlier recognition at the Optimization and Big Data Conference (2018). His research has also attracted media attention, with coverage in outlets such as Scientific American, NBC News, and The Guardian, among others.
 
 - name: TBA
   title:
