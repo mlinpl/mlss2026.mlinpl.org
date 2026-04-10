@@ -104,10 +104,13 @@
     His work has been recognized through several competitive awards, including the KAUST CRG Award for research on robust deep learning, an Amazon Research Award (2022) in the Machine Learning Algorithms and Theory track, the Google Gemma 2 Academic Award (2024), and a Systemic AI Safety grant from the UK AI Security Institute (2025), as well as grants from Toyota and Coefficient Giving in 2025.
     Adel has received five best paper awards, including an Outstanding Paper Award at the LASS Workshop (CIKM 2025), as well as awards at workshops affiliated with NeurIPS 2023, ICML 2023, and CVPR 2022, and earlier recognition at the Optimization and Big Data Conference (2018). His research has also attracted media attention, with coverage in outlets such as Scientific American, NBC News, and The Guardian, among others.
 
+- name: Bartosz Zieliński
+  title: Jagiellonian University / Jagiellonian Centre for AI
+  image: images/optimized/speakers-600x600/BartoszZielinski.webp
+  bio: >-
+    Bartosz Zieliński is an Associate Professor at the Jagiellonian University in Kraków and Director of the Jagiellonian Centre for Artificial Intelligence. He earned his Ph.D. from the Polish Academy of Sciences and his Habilitation from Wrocław University of Science and Technology, both in Computer Science. He is a member of ELLIS and a Research Team Leader at the Group of Machine Learning Research (GMUM). His work focuses on computer vision, interpretable machine learning, and embodied artificial intelligence.
+
 - name: TBA
   title:
   announced: false
 
-- name: TBA
-  title:
-  announced: false 
