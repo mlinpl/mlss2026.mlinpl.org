@@ -22,4 +22,31 @@
 
 <!-- SEO and OpenGraph Tags -->
 {% seo %}
+
+<!-- Structured Data for Event -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "MLSS^R&S 2026",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-03",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "Jagiellonian University",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Krakow",
+      "addressCountry": "Poland"
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "ML in PL Association",
+    "url": "https://mlinpl.org"
+  }
+}
+</script>
 </head>
