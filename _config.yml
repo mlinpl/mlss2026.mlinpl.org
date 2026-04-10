@@ -98,7 +98,8 @@ navigation:
 defaults:
   - scope:
       path: ""
-    values: {}
+    values:
+      image: "/images/mlss-2026-event-banner.png"
 
 
 # Colors and styles settings
