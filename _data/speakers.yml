@@ -110,7 +110,11 @@
   bio: >-
     Bartosz Zieliński is an Associate Professor at the Jagiellonian University in Kraków and Director of the Jagiellonian Centre for Artificial Intelligence. He earned his Ph.D. from the Polish Academy of Sciences and his Habilitation from Wrocław University of Science and Technology, both in Computer Science. He is a member of ELLIS and a Research Team Leader at the Group of Machine Learning Research (GMUM). His work focuses on computer vision, interpretable machine learning, and embodied artificial intelligence.
 
-- name: TBA
-  title:
-  announced: false
-
+- name: Christian Schroeder de Witt
+  title: University of Oxford
+  image: images/optimized/speakers-600x600/ChristianSchroederDeWitt.webp
+  bio-intro: >-
+    Christian Schroeder de Witt is a Principal Investigator at the Oxford Witt Lab, Department of Engineering Science, University of Oxford. His research spans artificial intelligence, physics, and computer science, combining theoretical work with practical questions around the reliability and security of AI systems.
+    His recent work focuses on multi-agent security, a direction addressing key gaps in current AI safety research by studying worst-case guarantees in agentic systems. Within this area, he introduced the concept of undetectable threats, highlighting limitations of anomaly-detection-based approaches and motivating security-by-design. His recent papers—on secret collusion, illusory attacks, and unelicitable backdoors—have appeared at venues such as NeurIPS 2024 and ICLR 2024.
+  bio-more: >-
+    Earlier in his career, he contributed to deep multi-agent reinforcement learning and co-authored work solving a long-standing problem in information security (perfectly secure steganography).
