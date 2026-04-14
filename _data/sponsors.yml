@@ -60,6 +60,15 @@
     - name: AI Safety Poland
       image: "images/partners/ai-safety-poland.svg"
       url: "https://aisafety.org.pl/"
+    - name: AI & ML Events
+      image: "images/optimized/partners-600x600/aimlevents.webp"
+      url: "https://aiml.events/"
+    - name: All Conference Alert
+      image: "images/optimized/partners-600x600/all-conference-alert.webp"
+      url: https://allconferencealert.net/poland.php
+    - name: International Conference Alerts
+      image: "images/optimized/partners-600x600/international-conference-alerts.webp"
+      url: https://internationalconferencealerts.com/
 #     - name: Advaiseme
 #       image: "images/optimized/partners-600x600/Advaiseme.webp"
 #       url:
