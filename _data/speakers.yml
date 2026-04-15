@@ -1,3 +1,25 @@
+# Templates:
+# Announced with short bio
+# - name:
+#   title:
+#   image:
+#   bio: >-
+#     ...
+# 
+# Announced with long bio
+# - name:
+#   title:
+#   image:
+#   bio-intro: >-
+#     ...
+#   bio-more: >-
+#     ...
+# 
+# TBA placeholder with a question mark
+# - name: TBA
+#   title: 
+#   announced: false
+
 - name: Franziska Boenisch
   title: CISPA Helmholtz Center
   image: images/optimized/speakers-600x600/FranziskaBoenisch.webp
@@ -118,3 +140,7 @@
     His recent work focuses on multi-agent security, a direction addressing key gaps in current AI safety research by studying worst-case guarantees in agentic systems. Within this area, he introduced the concept of undetectable threats, highlighting limitations of anomaly-detection-based approaches and motivating security-by-design. His recent papers—on secret collusion, illusory attacks, and unelicitable backdoors—have appeared at venues such as NeurIPS 2024 and ICLR 2024.
   bio-more: >-
     Earlier in his career, he contributed to deep multi-agent reinforcement learning and co-authored work solving a long-standing problem in information security (perfectly secure steganography).
+
+- name: TBA
+  title: 
+  announced: false
