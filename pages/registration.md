@@ -10,17 +10,18 @@ permalink: /registration
 
 ---
 
-## Timeline 
+## Timeline
+
 * Early bird (over 10% cheaper)
-    * registration deadline - **March 8th**
-    * decision notification - **March 22nd**
+    * registration deadline - **8 March (AoE)**
+    * decision notification - **22 March**
 * Regular
-    * registration deadline - **April 19th**
-    * decision notification - **April 30th**
+    * registration deadline - **19 April (AoE)**
+    * decision notification - **30 April**
 * Late Bird (limited slots)
-    * registration open until **May 9th** or until the tickets are available
-    * decision notification on a rolling basis
-* Deadline for paying the registration fee - **two weeks after acceptance**
+    * registration open until **10 May (AoE)** or until the tickets are available
+    * decision notification - **12 May**
+* Deadline for paying the registration fee: **two weeks after acceptance**
 
 ## Costs
 
