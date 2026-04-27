@@ -141,6 +141,10 @@
   bio-more: >-
     Earlier in his career, he contributed to deep multi-agent reinforcement learning and co-authored work solving a long-standing problem in information security (perfectly secure steganography).
 
-- name: TBA
-  title: 
-  announced: false
+- name: Nikolay Malkin
+  title: University of Edinburgh
+  image: images/optimized/speakers-600x600/NikolayMalkin.webp
+  bio-intro: >-
+    Nikolay Malkin is a Chancellor's Fellow in Informatics at the The University of Edinburgh and a fellow of CIFAR's Learning in Machines and Brains programme. Their research focuses on algorithms for probabilistic inference and Bayesian machine learning, with applications in generative modelling, neurosymbolic AI, and machine reasoning. 
+  bio-more: >-
+    Within machine learning, Nikolay's work explores modelling of Bayesian posteriors over high-dimensional and structured variables, induction and discovery of compositional structure in generative models, and neurosymbolic methods for uncertainty-aware reasoning in language and formal systems. Their work has found applications in pure and applied sciences, including inverse imaging, remote sensing, discovery of novel biological and chemical structures, and, most recently, robot control. Nikolay holds a PhD in mathematics from Yale University (2021) and was previously a postdoctoral researcher at Mila – Québec AI Institute in Montréal (2021 to 2024).
