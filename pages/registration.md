@@ -6,7 +6,7 @@ permalink: /registration
 
 ## Registration form
 
-<a href="https://g31jyakj.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply for MLSS 2026</span></a>
+<a href="#" class="btn btn-default btn-lg disabled" aria-disabled="true"><i class="fa-solid fa-table-list"></i> <span class="network-name">Registration Closed</span></a>
 
 ---
 
@@ -73,7 +73,7 @@ The fee includes participation in the summer school, all the program events, cof
 * Since the number of people who can attend the summer school in person is limited, we will only be able to accept selected applications. The selection will be based on the submitted CV.
 
 <div class="d-flex justify-content-center">
-    <a href="https://g31jyakj.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Apply for MLSS 2026</span></a>
+    <a href="#" class="btn btn-default btn-lg disabled" aria-disabled="true"><i class="fa-solid fa-table-list"></i> <span class="network-name">Registration Closed</span></a>
 </div>
 <br/>
 
