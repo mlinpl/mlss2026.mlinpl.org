@@ -63,7 +63,7 @@
 
 - title: "/ Media partners"
   imageMaxWidth: 215px
-  imageMaxHeight: 115px
+  imageMaxHeight: 80px
   margin: 20px 30px
   sponsors:
     - name: AI Safety Poland
