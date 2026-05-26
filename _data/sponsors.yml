@@ -1,12 +1,21 @@
 - title: '/ <span class="gold-shine-text">Gold sponsors</span>'
   imageMaxWidth: 280px
-  imageMaxHeight: 90px
+  imageMaxHeight: 115px
   margin: 30px 45px
   sponsors:
     - name: Google
       image: "images/optimized/sponsors-600x600/Google.webp"
       url: https://forms.gle/9F8fJYjGcGdz4GaS7
 
+- title: '/ <span class="bronze-shine-text">Bronze sponsors</span>'
+  imageMaxWidth: 270px
+  imageMaxHeight: 115px
+  margin: 30px 50px
+  sponsors:
+    - name: Motorola Solutions
+      image: "images/optimized/sponsors-600x600/MotorolaSolutions.webp"
+      url: https://www.motorolasolutions.com/en_us.html
+    
 # - title: "/ Partners"
 #   imageMaxWidth: 280px
 #   imageMaxHeight: 120px
