@@ -7,11 +7,14 @@
       image: "images/optimized/sponsors-600x600/Google.webp"
       url: https://forms.gle/9F8fJYjGcGdz4GaS7
 
-# - title: "/ Partners"
-#   imageMaxWidth: 280px
-#   imageMaxHeight: 120px
-#   margin: 30px 45px
-#   sponsors:
+- title: "/ Partners"
+  imageMaxWidth: 280px
+  imageMaxHeight: 120px
+  margin: 30px 45px
+  sponsors:
+    - name: Krakow
+      image: "images/optimized/partners-600x600/Krakow.webp"
+      url: "https://www.krakow.pl/"
     # - name: Hugging Face
     #   image: images/optimized/partners-600x600/HuggingFace.webp
     #   url: "https://huggingface.co/"
@@ -57,6 +60,9 @@
   imageMaxHeight: 115px
   margin: 20px 30px
   sponsors:
+    - name: "krakow.pl"
+      image: "images/optimized/partners-600x600/krakow_pl.webp"
+      url: "https://www.krakow.pl/"
     - name: AI Safety Poland
       image: "images/partners/ai-safety-poland.svg"
       url: "https://aisafety.org.pl/"
