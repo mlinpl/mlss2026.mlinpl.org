@@ -9,19 +9,21 @@
     {% include home/registration.html %}
 
     {% include home/about.html %}
-
+    
     {% include home/speakers.html %}
 
-    {% include home/program-format.html %}
+    {% if site.data.state.agenda %}
+    {% assign agenda_draft = false %}
+    {% if site.data.state.agenda == "draft" %}{% assign agenda_draft = true %}{% endif %}
+    {% include agenda.html agenda-data=site.data.mlss-agenda draft=agenda_draft notes=site.data.state.agenda-notes %}
+    {% endif %}
 
-    {% comment %}
-    {% include agenda.html agenda-data=site.data.mlss-agenda %}
-    {% endcomment %}
+    {% if site.data.state.program-format %}
+    {% assign program_format_note = true %}
+    {% if site.data.state.agenda %}{% assign program_format_note = false %}{% endif %}
+    {% include home/program-format.html show-note=program_format_note %}
+    {% endif %}
 
-    {% comment %}
-    {% include home/calls.html %}
-    {% endcomment %}
-    
     {% include home/timeline.html %}
     
     {% include home/venue.html %}

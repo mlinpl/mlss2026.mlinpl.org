@@ -1,0 +1,13 @@
+# State settings - controls visibility and content of site sections.
+
+agenda: "full" # options: null (hidden), "draft" (shows tentative notice), "full"
+program-format: true # options: true, false
+agenda-notes:
+  # Uncomment to show an announcement above the agenda grid, supports HTML:
+  # - "<b>Due to unforeseen circumstances, Regina Barzilay will not be able to join us
+  #    for her scheduled lecture. We are pleased to announce that Hannes Stark will be
+  #    delivering the lecture in her place.</b>"
+  # - 'Most of the lectures can be watched on our
+  #    <a class="btn btn-default" href="https://www.youtube.com/playlist?list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh">
+  #    <i class="fa-brands fa-youtube"></i> YouTube channel</a>.<br>
+  #    Links to the specific lectures can be found in the agenda below.'
