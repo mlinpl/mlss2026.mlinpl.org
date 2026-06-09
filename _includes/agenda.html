@@ -1,33 +1,42 @@
 <!-- Agenda Section -->
 {% comment %}
-Expects following parameters: agenda-data
+Expects following parameters:
+- agenda-data
+- (optional) draft=true/false - if true, shows the tentative schedule notice
+- (optional) notes - list of HTML strings rendered as <p> blocks above the grid
+Each day in agenda-data may have:
+- (optional) location - venue name shown under the day header
+- (optional) location-url - wraps the venue name in a link
 {% endcomment %}
 <section id="agenda" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
             <h2>/ Agenda </h2>
+            {% if include.draft %}
             <p>
-                The agenda is tentative and subject to small changes. 
+                The agenda is tentative and subject to small changes.
                 However, the beginning and ending hours of the event are set.
-                All events will take place in the venue, except for the poster session, 
-                which will be held at the nearby <a href="https://maps.app.goo.gl/3c35WKJcDVcLA8du5">Department of Chemistry</a>.
             </p>
-            <!-- <p>
-                <b>Due to unforeseen circumstances, Regina Barzilay will not be able to join us for her scheduled lecture. 
-                    We are pleased to announce that Hannes Stark will be delivering the lecture in her place.
-                </b>
-            </p> -->
-            <!-- <p>
-                Most of the lectures can be watched on our <a class="btn btn-default" href="https://www.youtube.com/playlist?list=PLoaWrlj9TDhOxVS_KLRXQr3PLJTcIH1Xh"><i class="fa-brands fa-youtube"></i> YouTube channel</a>.
-            </br>
-                Links to the specific lectures can be found in the agenda below.
-            </p> -->
+            {% endif %}
+            {% for note in include.notes %}
+            <p>{{ note }}</p>
+            {% endfor %}
         </div>
 
         <div class="col-lg-12 agenda d-flex">
         {% for day in include.agenda-data %}
         <div class="day days-{{ include.agenda-data | size }}">
             <h4>{{ day.title }}<br> <span class="emph d-inline-block">/ {{ day.subtitle }}</span></h4>
+            {% if day.location %}
+            <p class="small text-muted" style="margin-bottom: 4px;">
+                <i class="fa-solid fa-location-dot"></i>
+                {% if day.location-url %}
+                <a href="{{ day.location-url }}">{{ day.location }}</a>
+                {% else %}
+                {{ day.location }}
+                {% endif %}
+            </p>
+            {% endif %}
             <div class="events">
                 {% for event in day.events %}
                 <div class="event event-{{ event.height }}">

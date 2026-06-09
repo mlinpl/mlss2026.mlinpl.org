@@ -70,8 +70,8 @@ navigation:
   - name: "/ Program"
     url: "#program"
     subsites:
-      # - name: "/ Agenda"
-      #   url: "#agenda"
+      - name: "/ Agenda"
+        url: "#agenda"
       # - name: "/ Full program"
       #   url: "/program"
       - name: "/ Speakers"

@@ -1,11 +1,17 @@
 <!-- Program Format Section -->
+{% comment %}
+Expects following parameters:
+- (optional) show-note=true/false - if true, shows the "program not yet announced" notice
+{% endcomment %}
 <section id="program-format" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
             <h2>/ Program Format</h2>
+            {% if include.show-note %}
             <p>
                 Until the detailed program for {{ site.inline-logo }} is announced, the outline below describes the format of the previous edition of the Machine Learning Summer School.
             </p>
+            {% endif %}
         </div>
     </div>
     
