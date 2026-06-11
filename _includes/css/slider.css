@@ -30,6 +30,23 @@
     width: 370px;
 }
 
+/* On small screens keep the original wide-tab behaviour (same as item-col-4). */
+.item-col-5 {
+    width: 277.5px;
+}
+
+/* On desktop, shrink day tabs so all five fit on a single line. */
+@media (min-width: 992px) {
+    .item-col-5 {
+        width: 20%;
+        min-width: 140px;
+    }
+
+    #agenda-slider .slider-tabs .slider-item .speaker-name {
+        font-size: 15px;
+    }
+}
+
 .slider-tabs .slider-item .speaker-photo {
     width: 75px;
     float: left;

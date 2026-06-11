@@ -1,6 +1,6 @@
 # State settings - controls visibility and content of site sections.
 
-agenda: "full" # options: null (hidden), "draft" (shows tentative notice), "full"
+agenda: "draft" # options: null (hidden), "draft" (shows tentative notice), "full"
 program-format: true # options: true, false
 agenda-notes:
   # Uncomment to show an announcement above the agenda grid, supports HTML:
