@@ -35,7 +35,9 @@
       time: 15:30 - 17:00
       height: 4
     - title: <i class="fa-solid fa-people-group"></i> AI Safety Poland Meet-Up
-      subtitle:
+      subtitle: 
+      location: HEVRE
+      location-url: https://maps.app.goo.gl/zUAPSVz1xpmPaMZGA
       time: 18:00+
       height: 1
 
@@ -73,6 +75,8 @@
       height: 3
     - title: <i class="fa-solid fa-fire"></i> Welcome Reception (BBQ)
       time: 18:00+
+      location: Faculty of Mathematics </br> and Computer Science
+      location-url: "https://www.google.com/maps/place/Jagiellonian+University,+Faculty+of+Mathematics+and+Information+Technologies/@50.030096,19.906865,16z/data=!4m6!3m5!1s0x47165c861ad6cd9d:0x6fb4cfd2570e78e4!8m2!3d50.0300961!4d19.9068652!16s%2Fg%2F121lgyq6!5m1!1e4?entry=tts&g_ep=EgoyMDI1MTEwNC4xIPu8ASoASAFQAw%3D%3D&skid=cbe3093f-85d3-4eec-b616-cde2fb36ac28"
       height: 1
 
 - title: Wednesday
@@ -100,16 +104,13 @@
     - title: Nikolay Malkin
       subtitle: Lecture
       time: 14:00 - 15:30
-      height: 3
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-      time: 15:30 - 16:00
-      height: 1
-    - title: Google workshop
-      time: 16:00 - 17:30
-      height: 3
+      height: 6
+  
     - title: <i class="fa-solid fa-city"></i> Kraków City Tour
-      time: 18:00+
+      time: 17:30 - 19:30
       height: 1
+      location: Barbakan
+      location-url: "https://maps.app.goo.gl/Rx5MQscKTirSujRaA"
 
 - title: Thursday
   subtitle: 2 July
@@ -133,16 +134,16 @@
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       time: 12:30 - 14:00
       height: 3
-    - title: Tomasz Michalak
-      subtitle: Sponsor talk / Lecture
-      time: 14:00 - 15:30
-      height: 3
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break / Free time
-      time: 15:30 - 16:00
+    - title: Google
+      subtitle: Sponsor talk
+      time: 14:00 - 14:30
+      height: 1
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      time: 14:30 - 15:00
       height: 1
     - title: Tomasz Michalak
       subtitle: Lecture
-      time: 16:00 - 17:30
+      time: 15:00 - 16:30
       height: 3
 
 - title: Friday

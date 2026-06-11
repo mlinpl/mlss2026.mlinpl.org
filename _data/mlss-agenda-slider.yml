@@ -1,0 +1,213 @@
+- title: Monday / 29 June
+  date: 2026-06-29
+  location: Collegium Novum, Jagiellonian University
+  location-address: <a href="https://www.google.com/maps/place/Jagiellonian+University+Collegium+Novum/@50.0610645,19.9328982,17z/data=!3m1!4b1!4m6!3m5!1s0x47165b0c48c14e6f:0x8e15461cda4b6f74!8m2!3d50.0610645!4d19.9328982!16s%2Fg%2F11b69xbmft!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D">ul. Gołębia 24, 31-007 Kraków</a>
+  sessions:
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Registration and coffee
+          element-class: col-lg-12
+          time: 8:00 - 9:00
+    - events:
+        - title: Opening ceremony
+          element-class: col-lg-12
+          time: 9:00 - 9:30
+    - events:
+        - title: Wojciech Samek
+          subtitle: Opening lecture
+          element-class: col-lg-12
+          time: 9:30 - 10:00
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 10:00 - 10:30
+    - events:
+        - title: Wojciech Samek
+          subtitle: ELLIS Unit Warsaw Lecture Series
+          element-class: col-lg-12
+          time: 10:30 - 12:00
+    - events:
+        - title: <i class="fa-solid fa-utensils"></i> Lunch break
+          element-class: col-lg-12
+          time: 12:00 - 13:30
+    - events:
+        - title: Franziska Boenisch
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 13:30 - 15:00
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 15:00 - 15:30
+    - events:
+        - title: Adam Dziedzic
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 15:30 - 17:00
+    - events:
+        - title: <i class="fa-solid fa-people-group"></i> <a href="https://aisafety.org.pl/en">AI Safety Poland Meet-Up</a>
+          subtitle: <i class="fa-solid fa-location-dot"></i> <a href="https://www.google.com/maps/place/HEVRE+%7C+Bar+%26+Restaurant/@50.0511833,19.940857,619m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47165b6a37db7bcf:0xe263654903ce04f0!8m2!3d50.0511833!4d19.9434319!16s%2Fg%2F11c2kvfvt6?entry=tts&g_ep=EgoyMDI2MDYwMy4xIPu8ASoASAFQAw%3D%3D&skid=ec87f4fd-2296-4f96-8d2e-68ddd5b28c3c">HEVRE</a>
+          element-class: col-lg-12
+          time: "18:00"
+
+- title: Tuesday / 30 June
+  date: 2026-06-30
+  location: Faculty of Mathematics and Computer Science, Jagiellonian University
+  location-address: <a href="https://www.google.com/maps/place/Jagiellonian+University,+Faculty+of+Mathematics+and+Information+Technologies/@50.030096,19.906865,16z/data=!4m6!3m5!1s0x47165c861ad6cd9d:0x6fb4cfd2570e78e4!8m2!3d50.0300961!4d19.9068652!16s%2Fg%2F121lgyq6!5m1!1e4?entry=tts&g_ep=EgoyMDI1MTEwNC4xIPu8ASoASAFQAw%3D%3D&skid=cbe3093f-85d3-4eec-b616-cde2fb36ac28">ul. prof. Stanisława Łojasiewicza 6, 30-348 Kraków</a>
+  sessions:
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Registration and coffee
+          element-class: col-lg-12
+          time: 8:30 - 9:00
+    - events:
+        - title: Kamil Mamak
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 9:00 - 10:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 10:30 - 11:00
+    - events:
+        - title: Bartosz Zieliński
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 11:00 - 12:30
+    - events:
+        - title: <i class="fa-solid fa-utensils"></i> Lunch break
+          element-class: col-lg-12
+          time: 12:30 - 14:00
+    - events:
+        - title: Randall Balestriero
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 14:00 - 15:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 15:30 - 16:00
+    - events:
+        - title: Poster session
+          element-class: col-lg-12
+          time: 16:00 - 17:30
+    - events:
+        - title: <i class="fa-solid fa-fire"></i> Welcome Reception (BBQ)
+          subtitle: <i class="fa-solid fa-location-dot"></i> Faculty of Mathematics and Computer Science, Jagiellonian University
+          element-class: col-lg-12
+          time: "18:00"
+
+- title: Wednesday / 1 July
+  date: 2026-07-01
+  location: Faculty of Mathematics and Computer Science, Jagiellonian University
+  location-address: <a href="https://www.google.com/maps/place/Jagiellonian+University,+Faculty+of+Mathematics+and+Information+Technologies/@50.030096,19.906865,16z/data=!4m6!3m5!1s0x47165c861ad6cd9d:0x6fb4cfd2570e78e4!8m2!3d50.0300961!4d19.9068652!16s%2Fg%2F121lgyq6!5m1!1e4?entry=tts&g_ep=EgoyMDI1MTEwNC4xIPu8ASoASAFQAw%3D%3D&skid=cbe3093f-85d3-4eec-b616-cde2fb36ac28">ul. prof. Stanisława Łojasiewicza 6, 30-348 Kraków</a>
+  sessions:
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Registration and coffee
+          element-class: col-lg-12
+          time: 8:30 - 9:00
+    - events:
+        - title: Wojtek Kusa
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 9:00 - 10:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 10:30 - 11:00
+    - events:
+        - title: Dominik Janzing
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 11:00 - 12:30
+    - events:
+        - title: <i class="fa-solid fa-utensils"></i> Lunch break
+          element-class: col-lg-12
+          time: 12:30 - 14:00
+    - events:
+        - title: Nikolay Malkin
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 14:00 - 15:30
+    - events:
+        - title: <i class="fa-solid fa-city"></i> Kraków City Tour
+          subtitle: <i class="fa-solid fa-location-dot"></i> <a href="https://maps.app.goo.gl/Rx5MQscKTirSujRaA">Barbakan</a>
+          element-class: col-lg-12
+          time: 17:30 - 19:30
+
+- title: Thursday / 2 July
+  date: 2026-07-02
+  location: Faculty of Mathematics and Computer Science, Jagiellonian University
+  location-address: <a href="https://www.google.com/maps/place/Jagiellonian+University,+Faculty+of+Mathematics+and+Information+Technologies/@50.030096,19.906865,16z/data=!4m6!3m5!1s0x47165c861ad6cd9d:0x6fb4cfd2570e78e4!8m2!3d50.0300961!4d19.9068652!16s%2Fg%2F121lgyq6!5m1!1e4?entry=tts&g_ep=EgoyMDI1MTEwNC4xIPu8ASoASAFQAw%3D%3D&skid=cbe3093f-85d3-4eec-b616-cde2fb36ac28">ul. prof. Stanisława Łojasiewicza 6, 30-348 Kraków</a>
+  sessions:
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Registration and coffee
+          element-class: col-lg-12
+          time: 8:30 - 9:00
+    - events:
+        - title: Alexandra Gomez-Villa
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 9:00 - 10:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 10:30 - 11:00
+    - events:
+        - title: Fazl Barez
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 11:00 - 12:30
+    - events:
+        - title: <i class="fa-solid fa-utensils"></i> Lunch break
+          element-class: col-lg-12
+          time: 12:30 - 14:00
+    - events:
+        - title: Google
+          subtitle: Sponsor talk
+          element-class: col-lg-12
+          time: 14:00 - 14:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 14:30 - 15:00
+    - events:
+        - title: Tomasz Michalak
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 15:00 - 16:30
+
+- title: Friday / 3 July
+  date: 2026-07-03
+  location: Faculty of Mathematics and Computer Science, Jagiellonian University
+  location-address: <a href="https://www.google.com/maps/place/Jagiellonian+University,+Faculty+of+Mathematics+and+Information+Technologies/@50.030096,19.906865,16z/data=!4m6!3m5!1s0x47165c861ad6cd9d:0x6fb4cfd2570e78e4!8m2!3d50.0300961!4d19.9068652!16s%2Fg%2F121lgyq6!5m1!1e4?entry=tts&g_ep=EgoyMDI1MTEwNC4xIPu8ASoASAFQAw%3D%3D&skid=cbe3093f-85d3-4eec-b616-cde2fb36ac28">ul. prof. Stanisława Łojasiewicza 6, 30-348 Kraków</a>
+  sessions:
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Registration and coffee
+          element-class: col-lg-12
+          time: 8:30 - 9:00
+    - events:
+        - title: Anna Sztyber-Betley & Jan Betley
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 9:00 - 10:30
+    - events:
+        - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+          element-class: col-lg-12
+          time: 10:30 - 11:00
+    - events:
+        - title: Adel Bibi
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 11:00 - 12:30
+    - events:
+        - title: <i class="fa-solid fa-utensils"></i> Lunch break
+          element-class: col-lg-12
+          time: 12:30 - 14:00
+    - events:
+        - title: Christian Schroeder de Witt
+          subtitle: Lecture
+          element-class: col-lg-12
+          time: 14:00 - 15:30
+    - events:
+        - title: <i class="fa-solid fa-flag-checkered"></i> Closing ceremony
+          element-class: col-lg-12
+          time: 15:30 - 16:00
