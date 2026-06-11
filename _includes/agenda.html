@@ -2,20 +2,23 @@
 {% comment %}
 Expects following parameters:
 - agenda-data
+- (optional) section-id - id for the <section> (default "agenda")
+- (optional) heading - text after "/" in the section header (default "Agenda")
 - (optional) draft=true/false - if true, shows the tentative schedule notice
 - (optional) notes - list of HTML strings rendered as <p> blocks above the grid
 Each day in agenda-data may have:
 - (optional) location - venue name shown under the day header
 - (optional) location-url - wraps the venue name in a link
 {% endcomment %}
-<section id="agenda" class="container content-section">
+{% assign agenda_section_id = include.section-id | default: "agenda" %}
+{% assign agenda_heading = include.heading | default: "Agenda" %}
+<section id="{{ agenda_section_id }}" class="container content-section">
     <div class="row">
         <div class="col-lg-12">
-            <h2>/ Agenda </h2>
+            <h2>/ {{ agenda_heading }} </h2>
             {% if include.draft %}
             <p>
                 The agenda is tentative and subject to small changes.
-                However, the beginning and ending hours of the event are set.
             </p>
             {% endif %}
             {% for note in include.notes %}
