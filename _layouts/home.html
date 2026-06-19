@@ -16,10 +16,6 @@
     {% assign agenda_draft = false %}
     {% if site.data.state.agenda == "draft" %}{% assign agenda_draft = true %}{% endif %}
     {% include agenda-slider.html agenda-data=site.data.mlss-agenda-slider draft=agenda_draft notes=site.data.state.agenda-notes %}
-
-    {% comment %}
-    {% include agenda.html agenda-data=site.data.mlss-agenda section-id="agenda-full" heading="Agenda" draft=agenda_draft %}
-    {% endcomment %}
     {% endif %}
 
     {% if site.data.state.program-format %}
