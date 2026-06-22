@@ -51,7 +51,8 @@ header:
   # countdown-overwrite: 'Thank you for participating!'
   # countdown-overwrite: ''
   # arrow-url: "#about"
-  arrow-url: "#registration"
+  # arrow-url: "#registration"
+  arrow-url: "#agenda"
 
 # Navigation settings
 navigation:
@@ -72,8 +73,6 @@ navigation:
     subsites:
       - name: "/ Agenda"
         url: "#agenda"
-      # - name: "/ Full program"
-      #   url: "/program"
       - name: "/ Speakers"
         url: "#speakers"
       - name: "/ Program format"
