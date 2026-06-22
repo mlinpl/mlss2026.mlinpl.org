@@ -12,9 +12,13 @@
   imageMaxHeight: 115px
   margin: 30px 50px
   sponsors:
+    - name: Aptiv
+      image: "images/optimized/sponsors-600x600/Aptiv.webp"
+      url: https://www.aptiv.com/
     - name: Motorola Solutions
       image: "images/optimized/sponsors-600x600/MotorolaSolutions.webp"
       url: https://www.motorolasolutions.com/en_us.html
+
     
 # - title: "/ Partners"
 #   imageMaxWidth: 280px
