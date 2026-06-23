@@ -22,7 +22,7 @@
           time: 10:00 - 10:30
     - events:
         - title: Wojciech Samek
-          subtitle: ELLIS Unit Warsaw Lecture Series
+          subtitle: "ELLIS Unit Warsaw Lecture Series<br><strong>The Science of Understanding AI: From Explanation to Control</strong>"
           element-class: col-lg-12
           time: 10:30 - 12:00
     - events:
