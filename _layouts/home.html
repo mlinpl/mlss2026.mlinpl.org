@@ -10,7 +10,7 @@
 
     {% include home/about.html %}
     
-    {% include home/speakers.html %}
+    {% include home/speakers.html speakers=site.data.state.speakers more-are-coming=site.data.state.speakers-more-are-coming %}
 
     {% if site.data.state.agenda %}
     {% assign agenda_draft = false %}

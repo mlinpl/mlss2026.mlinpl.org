@@ -7,14 +7,22 @@
         <div class="col-lg-12">
             <p>
                 {{ site.inline-logo }} will feature <strong>lectures delivered by leading researchers and practitioners working on reliability and safety of machine learning systems</strong>.
+                {% unless include.speakers == "all" %}
                 The list of speakers will be announced gradually.
+                {% endunless %}
             </p>
         </div>
     </div>
-    {% include speakers-slider.html 
-        section-id="speakers" 
-        section-title="Speakers" 
-        speakers-data=site.data.speakers 
-        more-is-coming=false
+    {% if include.more-are-coming == nil %}
+        {% assign more-are-coming = true %}
+        {% if include.speakers == "all" %}{% assign more-are-coming = false %}{% endif %}
+    {% else %}
+        {% assign more-are-coming = include.more-are-coming %}
+    {% endif %}
+    {% include speakers-slider.html
+        section-id="speakers"
+        section-title="Speakers"
+        speakers-data=site.data.speakers
+        more-are-coming=more-are-coming
     %}
 </section>
