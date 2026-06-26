@@ -19,13 +19,14 @@
       image: "images/optimized/sponsors-600x600/MotorolaSolutions.webp"
       url: https://www.motorolasolutions.com/en_us.html
 
-    
-# - title: "/ Partners"
-#   imageMaxWidth: 280px
-#   imageMaxHeight: 120px
-#   margin: 30px 45px
-#   sponsors:
-
+- title: "/ Partners"
+  imageMaxWidth: 280px
+  imageMaxHeight: 120px
+  margin: 30px 45px
+  sponsors:
+    - name: Krakow
+      image: "images/optimized/partners-600x600/Krakow.webp"
+      url: "https://www.krakow.pl/"
 
 - title: "/ Honorary Patronages"
   imageMaxWidth: 270px
@@ -41,6 +42,9 @@
   imageMaxHeight: 80px
   margin: 20px 30px
   sponsors:
+    - name: "krakow.pl"
+      image: "images/optimized/partners-600x600/krakow_pl.webp"
+      url: "https://www.krakow.pl/"
     - name: AI Safety Poland
       image: "images/partners/ai-safety-poland.svg"
       url: "https://aisafety.org.pl/"
