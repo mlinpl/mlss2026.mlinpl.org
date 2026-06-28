@@ -116,7 +116,7 @@
           time: 10:30 - 11:00
     - events:
         - title: Dominik Janzing
-          subtitle: Lecture
+          subtitle: "Lecture: <strong>Toward quality standards for causal explanations</strong>"
           element-class: col-lg-12
           time: 11:00 - 12:30
     - events:
