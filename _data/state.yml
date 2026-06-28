@@ -2,7 +2,7 @@
 
 speakers: all # options: false (not announced), "in-progress" (partially announced), "all" (fully announced, hides notice)
 speakers-more-are-coming: false # show "more speakers to be announced" note below the slider
-agenda: "draft" # options: null (hidden), "draft" (shows tentative notice), "full"
+agenda: "full" # options: null (hidden), "draft" (shows tentative notice), "full"
 program-format: true # options: true, false
 agenda-notes:
   # Uncomment to show an announcement above the agenda grid, supports HTML:
