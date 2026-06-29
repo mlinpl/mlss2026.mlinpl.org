@@ -31,7 +31,7 @@
           time: 12:00 - 13:30
     - events:
         - title: Franziska Boenisch
-          subtitle: Lecture
+          subtitle: "Lecture: <strong>Understanding and Mitigating Memorization in Foundation Models</strong>"
           element-class: col-lg-12
           time: 13:30 - 15:00
     - events:
