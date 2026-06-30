@@ -154,7 +154,7 @@
           time: 10:30 - 11:00
     - events:
         - title: Fazl Barez
-          subtitle: Lecture
+          subtitle: "Lecture: <strong>Understanding in the age of AGI</strong>"
           element-class: col-lg-12
           time: 11:00 - 12:30
     - events:
