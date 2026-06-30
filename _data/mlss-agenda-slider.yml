@@ -40,7 +40,7 @@
           time: 15:00 - 15:30
     - events:
         - title: Adam Dziedzic
-          subtitle: Lecture
+          subtitle: "Lecture: <strong>Data Provenance for Generative Artificial Intelligence</strong>"
           element-class: col-lg-12
           time: 15:30 - 17:00
     - events:
