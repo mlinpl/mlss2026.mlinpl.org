@@ -196,7 +196,7 @@
           time: 10:30 - 11:00
     - events:
         - title: Christian Schroeder de Witt
-          subtitle: Lecture
+          subtitle: "Lecture: <strong>Foundations of Multi-Agent Security</strong>"
           element-class: col-lg-12
           time: 11:00 - 12:30
     - events:
