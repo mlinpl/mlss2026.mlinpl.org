@@ -58,6 +58,8 @@ navigation:
   - name: "/ About"
     url: "#about"
     subsites:
+      - name: "/ Photos"
+        url: "photos"
       - name: "/ Previous editions"
         subsites:
           - name: "/ 2025"

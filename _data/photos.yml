@@ -1,0 +1,725 @@
+- name: <i class="fa-solid fa-calendar-day"></i> Day 1 - Monday / 29 June 2026
+  src-dir: images/photos/2026/2400x1600/day_1
+  thumbnails-dir: images/photos/2026/thumbnails/day_1
+  default-width: 2400
+  default-height: 1600
+  photos:
+  - filename: DSC_7750.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_7775.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7779.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7888.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7898.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7912.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_7922.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7986.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_7998.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8038.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8041.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8043.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8051.webp
+    width: 1044
+    height: 1600
+  - filename: DSC_8059.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8067.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8079.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8091.webp
+    width: 2400
+    height: 1580
+  - filename: DSC_8095.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8156.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8160.webp
+    width: 1033
+    height: 1600
+  - filename: DSC_8162.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8166.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8174.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8185.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8190.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8227.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8247.webp
+    width: 1062
+    height: 1600
+  - filename: DSC_8257.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8258.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8260.webp
+    width: 1062
+    height: 1600
+  - filename: DSC_8268.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8275.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8289.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8301.webp
+    width: 1062
+    height: 1600
+  - filename: IMG_9356.webp
+  - filename: IMG_9364.webp
+    width: 1000
+    height: 1600
+  - filename: IMG_9398.webp
+  - filename: IMG_9411.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9431.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9447.webp
+    width: 2400
+    height: 1599
+  - filename: IMG_9458.webp
+  - filename: IMG_9463.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9466.webp
+  - filename: IMG_9470.webp
+    width: 1066
+    height: 1600
+  - filename: IMG_9481.webp
+
+- name: <i class="fa-solid fa-calendar-day"></i> Day 2 - Tuesday / 30 June 2026
+  src-dir: images/photos/2026/2400x1600/day_2
+  thumbnails-dir: images/photos/2026/thumbnails/day_2
+  default-width: 2400
+  default-height: 1600
+  photos:
+  - filename: DSC_8343.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8358.webp
+    width: 2400
+    height: 1525
+  - filename: DSC_8359.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8360.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8362.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8368.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8375.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8383.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8387.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8389.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8393.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8401.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8402.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8409.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8413.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8415.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8435.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8455.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8542.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8544.webp
+    width: 2400
+    height: 1552
+  - filename: DSC_8548.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8557.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8586.webp
+    width: 2400
+    height: 1594
+  - filename: IMG_9507.webp
+  - filename: IMG_9526.webp
+    width: 1066
+    height: 1600
+  - filename: IMG_9536.webp
+  - filename: IMG_9543.webp
+  - filename: IMG_9549.webp
+  - filename: IMG_9554.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9559.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9565.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9569.webp
+  - filename: IMG_9572.webp
+  - filename: IMG_9573.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9579.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9582.webp
+  - filename: IMG_9588.webp
+    width: 1066
+    height: 1600
+  - filename: IMG_9591.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9605.webp
+  - filename: IMG_9613.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9620.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9622.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9631.webp
+  - filename: IMG_9636.webp
+  - filename: IMG_9646.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9662.webp
+    width: 2400
+    height: 1599
+  - filename: IMG_9666.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9670.webp
+  - filename: IMG_9682.webp
+  - filename: IMG_9683.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9690.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9691.webp
+  - filename: IMG_9694.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9698.webp
+  - filename: IMG_9708.webp
+  - filename: IMG_9717.webp
+  - filename: IMG_9723.webp
+  - filename: IMG_9740.webp
+  - filename: IMG_9741.webp
+  - filename: IMG_9747.webp
+  - filename: IMG_9749.webp
+  - filename: IMG_9751.webp
+  - filename: IMG_9752.webp
+  - filename: IMG_9755.webp
+
+- name: <i class="fa-solid fa-calendar-day"></i> Day 3 - Wednesday / 1 July 2026
+  src-dir: images/photos/2026/2400x1600/day_3
+  thumbnails-dir: images/photos/2026/thumbnails/day_3
+  default-width: 2400
+  default-height: 1600
+  photos:
+  - filename: DSC_8602.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8607.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8610.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8615.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8616.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8618.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8620.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8644.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8666.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8676.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8688.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8695.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8697.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8699.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8708.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8715.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8745.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8748.webp
+    width: 2363
+    height: 1600
+  - filename: DSC_8756.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8768.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8769.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8773.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8776.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8813.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8814.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8818.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8822.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8867.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8880.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8881.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8882.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8883.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8907.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8911.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8915.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8918.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8921.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8923.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8927.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8936.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8947.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8971.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8976.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_8979.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_8985.webp
+    width: 1063
+    height: 1600
+  - filename: IMG_9768.webp
+  - filename: IMG_9771.webp
+  - filename: IMG_9772.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9774.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9782.webp
+  - filename: IMG_9784.webp
+  - filename: IMG_9786.webp
+  - filename: IMG_9789.webp
+  - filename: IMG_9798.webp
+  - filename: IMG_9801.webp
+    width: 2399
+    height: 1600
+
+- name: <i class="fa-solid fa-calendar-day"></i> Day 4 - Thursday / 2 July 2026
+  src-dir: images/photos/2026/2400x1600/day_4
+  thumbnails-dir: images/photos/2026/thumbnails/day_4
+  default-width: 2400
+  default-height: 1600
+  photos:
+  - filename: DSC_9019.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9022.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9023.webp
+    width: 1072
+    height: 1600
+  - filename: DSC_9026.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9032.webp
+    width: 1066
+    height: 1600
+  - filename: DSC_9033.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9038.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9044.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9052.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9060.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9065.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9066.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9078.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9082.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9090.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9100.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9111.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9131.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9133.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9135.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9143.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9144.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9147.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9150.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9151.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9169.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9173.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9183.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9188.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9196.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9206.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9208.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9244.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9253.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9282.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9302.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9303.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9315.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9334.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9342.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9362.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9369.webp
+    width: 2400
+    height: 1594
+
+- name: <i class="fa-solid fa-calendar-day"></i> Day 5 - Friday / 3 July 2026
+  src-dir: images/photos/2026/2400x1600/day_5
+  thumbnails-dir: images/photos/2026/thumbnails/day_5
+  default-width: 2400
+  default-height: 1600
+  photos:
+  - filename: DSC_9396.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9401.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9402.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9408.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9409.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9412.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9416.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9422.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9426.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9429.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9433.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9435.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9440.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9443.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9448.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9455.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9456.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9466.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9471.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9477.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9481.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9486.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9487.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9498.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9499.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9501.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9505.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9511.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9521.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9527.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9528.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9559.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9563.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9570.webp
+    width: 2400
+    height: 1594
+  - filename: DSC_9574.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9585.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9593.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9595.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9602.webp
+    width: 1063
+    height: 1600
+  - filename: DSC_9606.webp
+    width: 1063
+    height: 1600
+  - filename: IMG_9823.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9824.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9827.webp
+  - filename: IMG_9829.webp
+  - filename: IMG_9839.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9861.webp
+    width: 2400
+    height: 1596
+  - filename: IMG_9869.webp
+  - filename: IMG_9873.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9876.webp
+    width: 1067
+    height: 1600
+  - filename: IMG_9887.webp
+  - filename: IMG_9890.webp
+  - filename: IMG_9897.webp
+

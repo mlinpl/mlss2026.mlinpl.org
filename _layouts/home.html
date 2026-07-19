@@ -6,9 +6,8 @@
     {% include nav.html %}
     {% include header.html %}
 
-    {% include home/registration.html %}
-
     {% include home/about.html %}
+    {% include home/photos.html %}
     
     {% include home/speakers.html speakers=site.data.state.speakers more-are-coming=site.data.state.speakers-more-are-coming %}
 
@@ -24,9 +23,11 @@
     {% include home/program-format.html show-note=program_format_note %}
     {% endif %}
 
+    {% include home/venue.html %}
+
     {% include home/timeline.html %}
     
-    {% include home/venue.html %}
+    {% include home/registration.html %}
 
     {% comment %}
     {% include home/sponsors-call.html %}

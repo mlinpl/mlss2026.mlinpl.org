@@ -1,0 +1,34 @@
+<!-- Photos Section -->
+<section id="photos" class="container content-section">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>/ Photos</h2>
+            <p>
+                Relive the five days of {{ site.inline-logo }} &ndash; lectures, poster sessions
+                and the people who made the school happen &ndash; through the photos. Browse the full gallery below.
+            </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="d-flex" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 10px;">
+                {% for preview in site.data.photos-preview %}
+                <a href="{{ "./photos" | relative_url }}" style="flex: 1 1 180px; max-width: 260px;">
+                    <img class="width-100 photo" src="{{ preview | relative_url }}"
+                        alt="Photo from MLSS 2026"
+                        style="aspect-ratio: 3 / 2; object-fit: cover; height: 100%;">
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="row text-center" style="margin-top: 30px;">
+        <div class="col-lg-12">
+            <a class="btn btn-default btn-lg" href="{{ "./photos" | relative_url }}">
+                <i class="fa-solid fa-images"></i> See all photos from {{ site.inline-logo }}
+            </a>
+        </div>
+    </div>
+</section>
